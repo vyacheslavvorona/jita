@@ -1,0 +1,464 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03396A7821A7D8C2004F8C60 /* rawString.txt in Resources */ = {isa = PBXBuildFile; fileRef = 03396A7721A7D8C2004F8C60 /* rawString.txt */; };
+		03396A7A21A7DAD7004F8C60 /* RawStringParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03396A7921A7DAD7004F8C60 /* RawStringParser.swift */; };
+		03396A7D21A7DF34004F8C60 /* VerbModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03396A7C21A7DF34004F8C60 /* VerbModel.swift */; };
+		03396A7F21A7DF54004F8C60 /* BaseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03396A7E21A7DF54004F8C60 /* BaseModel.swift */; };
+		03396A8121A7E071004F8C60 /* Realm+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03396A8021A7E071004F8C60 /* Realm+Ext.swift */; };
+		03396A8321A7E126004F8C60 /* VerbPairModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03396A8221A7E126004F8C60 /* VerbPairModel.swift */; };
+		03396A8621A7E617004F8C60 /* String+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03396A8521A7E617004F8C60 /* String+Ext.swift */; };
+		0399DD2F21A79A9800449766 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0399DD2E21A79A9800449766 /* AppDelegate.swift */; };
+		0399DD3121A79A9800449766 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0399DD3021A79A9800449766 /* ViewController.swift */; };
+		0399DD3421A79A9800449766 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0399DD3221A79A9800449766 /* Main.storyboard */; };
+		0399DD3921A79A9900449766 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0399DD3821A79A9900449766 /* Assets.xcassets */; };
+		0399DD3C21A79A9900449766 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0399DD3A21A79A9900449766 /* LaunchScreen.storyboard */; };
+		300F413C97EDAB80B0B36042 /* Pods_JiTa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28DFDB03C03C74BA94F7753B /* Pods_JiTa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		03396A7721A7D8C2004F8C60 /* rawString.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rawString.txt; sourceTree = "<group>"; };
+		03396A7921A7DAD7004F8C60 /* RawStringParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawStringParser.swift; sourceTree = "<group>"; };
+		03396A7C21A7DF34004F8C60 /* VerbModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbModel.swift; sourceTree = "<group>"; };
+		03396A7E21A7DF54004F8C60 /* BaseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseModel.swift; sourceTree = "<group>"; };
+		03396A8021A7E071004F8C60 /* Realm+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Realm+Ext.swift"; sourceTree = "<group>"; };
+		03396A8221A7E126004F8C60 /* VerbPairModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbPairModel.swift; sourceTree = "<group>"; };
+		03396A8521A7E617004F8C60 /* String+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Ext.swift"; sourceTree = "<group>"; };
+		0399DD2B21A79A9800449766 /* JiTa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JiTa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0399DD2E21A79A9800449766 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0399DD3021A79A9800449766 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0399DD3321A79A9800449766 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0399DD3821A79A9900449766 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0399DD3B21A79A9900449766 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0399DD3D21A79A9900449766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28DFDB03C03C74BA94F7753B /* Pods_JiTa.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JiTa.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE75B9A2EDE8941CB23224BC /* Pods-JiTa.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JiTa.release.xcconfig"; path = "Pods/Target Support Files/Pods-JiTa/Pods-JiTa.release.xcconfig"; sourceTree = "<group>"; };
+		E2500F5C890479FC276B2E58 /* Pods-JiTa.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JiTa.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JiTa/Pods-JiTa.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0399DD2821A79A9800449766 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				300F413C97EDAB80B0B36042 /* Pods_JiTa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		03396A7B21A7DF21004F8C60 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				03396A7C21A7DF34004F8C60 /* VerbModel.swift */,
+				03396A7E21A7DF54004F8C60 /* BaseModel.swift */,
+				03396A8221A7E126004F8C60 /* VerbPairModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		03396A8421A7E5F9004F8C60 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				03396A8021A7E071004F8C60 /* Realm+Ext.swift */,
+				03396A8521A7E617004F8C60 /* String+Ext.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		0399DD2221A79A9800449766 = {
+			isa = PBXGroup;
+			children = (
+				03396A7721A7D8C2004F8C60 /* rawString.txt */,
+				0399DD2D21A79A9800449766 /* JiTa */,
+				0399DD2C21A79A9800449766 /* Products */,
+				D0CFE745C4E03B7544A2FD17 /* Pods */,
+				C301A44ECBF7D79B57685558 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		0399DD2C21A79A9800449766 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0399DD2B21A79A9800449766 /* JiTa.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0399DD2D21A79A9800449766 /* JiTa */ = {
+			isa = PBXGroup;
+			children = (
+				03396A8421A7E5F9004F8C60 /* Extensions */,
+				03396A7B21A7DF21004F8C60 /* Models */,
+				0399DD2E21A79A9800449766 /* AppDelegate.swift */,
+				0399DD3021A79A9800449766 /* ViewController.swift */,
+				0399DD3221A79A9800449766 /* Main.storyboard */,
+				0399DD3821A79A9900449766 /* Assets.xcassets */,
+				0399DD3A21A79A9900449766 /* LaunchScreen.storyboard */,
+				0399DD3D21A79A9900449766 /* Info.plist */,
+				03396A7921A7DAD7004F8C60 /* RawStringParser.swift */,
+			);
+			path = JiTa;
+			sourceTree = "<group>";
+		};
+		C301A44ECBF7D79B57685558 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				28DFDB03C03C74BA94F7753B /* Pods_JiTa.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D0CFE745C4E03B7544A2FD17 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E2500F5C890479FC276B2E58 /* Pods-JiTa.debug.xcconfig */,
+				BE75B9A2EDE8941CB23224BC /* Pods-JiTa.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0399DD2A21A79A9800449766 /* JiTa */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0399DD4021A79A9900449766 /* Build configuration list for PBXNativeTarget "JiTa" */;
+			buildPhases = (
+				0298E23F27492635A2988D2F /* [CP] Check Pods Manifest.lock */,
+				0399DD2721A79A9800449766 /* Sources */,
+				0399DD2821A79A9800449766 /* Frameworks */,
+				0399DD2921A79A9800449766 /* Resources */,
+				3C41DF312812C04343E59EDB /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JiTa;
+			productName = JiTa;
+			productReference = 0399DD2B21A79A9800449766 /* JiTa.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0399DD2321A79A9800449766 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0940;
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = "Vorona Vyacheslav";
+				TargetAttributes = {
+					0399DD2A21A79A9800449766 = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
+				};
+			};
+			buildConfigurationList = 0399DD2621A79A9800449766 /* Build configuration list for PBXProject "JiTa" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0399DD2221A79A9800449766;
+			productRefGroup = 0399DD2C21A79A9800449766 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0399DD2A21A79A9800449766 /* JiTa */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0399DD2921A79A9800449766 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03396A7821A7D8C2004F8C60 /* rawString.txt in Resources */,
+				0399DD3C21A79A9900449766 /* LaunchScreen.storyboard in Resources */,
+				0399DD3921A79A9900449766 /* Assets.xcassets in Resources */,
+				0399DD3421A79A9800449766 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0298E23F27492635A2988D2F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-JiTa-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3C41DF312812C04343E59EDB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-JiTa/Pods-JiTa-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RealmSwift.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JiTa/Pods-JiTa-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0399DD2721A79A9800449766 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0399DD3121A79A9800449766 /* ViewController.swift in Sources */,
+				03396A8321A7E126004F8C60 /* VerbPairModel.swift in Sources */,
+				03396A8121A7E071004F8C60 /* Realm+Ext.swift in Sources */,
+				0399DD2F21A79A9800449766 /* AppDelegate.swift in Sources */,
+				03396A7D21A7DF34004F8C60 /* VerbModel.swift in Sources */,
+				03396A7A21A7DAD7004F8C60 /* RawStringParser.swift in Sources */,
+				03396A8621A7E617004F8C60 /* String+Ext.swift in Sources */,
+				03396A7F21A7DF54004F8C60 /* BaseModel.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0399DD3221A79A9800449766 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0399DD3321A79A9800449766 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0399DD3A21A79A9900449766 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0399DD3B21A79A9900449766 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0399DD3E21A79A9900449766 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0399DD3F21A79A9900449766 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0399DD4121A79A9900449766 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E2500F5C890479FC276B2E58 /* Pods-JiTa.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = W298DG45KJ;
+				INFOPLIST_FILE = JiTa/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = skolvan.JiTaSonmi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0399DD4221A79A9900449766 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE75B9A2EDE8941CB23224BC /* Pods-JiTa.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = W298DG45KJ;
+				INFOPLIST_FILE = JiTa/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = skolvan.JiTaSonmi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0399DD2621A79A9800449766 /* Build configuration list for PBXProject "JiTa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0399DD3E21A79A9900449766 /* Debug */,
+				0399DD3F21A79A9900449766 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0399DD4021A79A9900449766 /* Build configuration list for PBXNativeTarget "JiTa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0399DD4121A79A9900449766 /* Debug */,
+				0399DD4221A79A9900449766 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0399DD2321A79A9800449766 /* Project object */;
+}
