@@ -19,6 +19,8 @@
 		0399DD3421A79A9800449766 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0399DD3221A79A9800449766 /* Main.storyboard */; };
 		0399DD3921A79A9900449766 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0399DD3821A79A9900449766 /* Assets.xcassets */; };
 		0399DD3C21A79A9900449766 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0399DD3A21A79A9900449766 /* LaunchScreen.storyboard */; };
+		03CEB38F21A83E38004A772D /* Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03CEB38E21A83E38004A772D /* Cell.xib */; };
+		03CEB39121A8414E004A772D /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CEB39021A8414E004A772D /* Cell.swift */; };
 		300F413C97EDAB80B0B36042 /* Pods_JiTa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28DFDB03C03C74BA94F7753B /* Pods_JiTa.framework */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +39,8 @@
 		0399DD3821A79A9900449766 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0399DD3B21A79A9900449766 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0399DD3D21A79A9900449766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03CEB38E21A83E38004A772D /* Cell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Cell.xib; sourceTree = "<group>"; };
+		03CEB39021A8414E004A772D /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
 		28DFDB03C03C74BA94F7753B /* Pods_JiTa.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JiTa.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE75B9A2EDE8941CB23224BC /* Pods-JiTa.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JiTa.release.xcconfig"; path = "Pods/Target Support Files/Pods-JiTa/Pods-JiTa.release.xcconfig"; sourceTree = "<group>"; };
 		E2500F5C890479FC276B2E58 /* Pods-JiTa.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JiTa.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JiTa/Pods-JiTa.debug.xcconfig"; sourceTree = "<group>"; };
@@ -104,6 +108,8 @@
 				0399DD3A21A79A9900449766 /* LaunchScreen.storyboard */,
 				0399DD3D21A79A9900449766 /* Info.plist */,
 				03396A7921A7DAD7004F8C60 /* RawStringParser.swift */,
+				03CEB38E21A83E38004A772D /* Cell.xib */,
+				03CEB39021A8414E004A772D /* Cell.swift */,
 			);
 			path = JiTa;
 			sourceTree = "<group>";
@@ -186,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03396A7821A7D8C2004F8C60 /* rawString.txt in Resources */,
+				03CEB38F21A83E38004A772D /* Cell.xib in Resources */,
 				0399DD3C21A79A9900449766 /* LaunchScreen.storyboard in Resources */,
 				0399DD3921A79A9900449766 /* Assets.xcassets in Resources */,
 				0399DD3421A79A9800449766 /* Main.storyboard in Resources */,
@@ -253,6 +260,7 @@
 				03396A8121A7E071004F8C60 /* Realm+Ext.swift in Sources */,
 				0399DD2F21A79A9800449766 /* AppDelegate.swift in Sources */,
 				03396A7D21A7DF34004F8C60 /* VerbModel.swift in Sources */,
+				03CEB39121A8414E004A772D /* Cell.swift in Sources */,
 				03396A7A21A7DAD7004F8C60 /* RawStringParser.swift in Sources */,
 				03396A8621A7E617004F8C60 /* String+Ext.swift in Sources */,
 				03396A7F21A7DF54004F8C60 /* BaseModel.swift in Sources */,
@@ -402,13 +410,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W298DG45KJ;
+				DEVELOPMENT_TEAM = V2QDS3YBWY;
 				INFOPLIST_FILE = JiTa/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = skolvan.JiTaSonmi;
+				PRODUCT_BUNDLE_IDENTIFIER = skolvan.JiTaWip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
@@ -423,13 +431,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W298DG45KJ;
+				DEVELOPMENT_TEAM = V2QDS3YBWY;
 				INFOPLIST_FILE = JiTa/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = skolvan.JiTaSonmi;
+				PRODUCT_BUNDLE_IDENTIFIER = skolvan.JiTaWip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;

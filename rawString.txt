@@ -1,1093 +1,797 @@
-<TD width="50%"><b>預ける</b> [あずける]<br>(v1,vt) to give into custody; to leave (a child) in the care of; to entrust; to deposit</TD>
-<TD width="50%"><b>預かる</b> [あずかる]<br>(v5r,vt) to keep in custody; to receive on deposit; to take charge of {NB: this allocation to Intransitive by Takasugi is dubious.}</TD>
-</TR>
-<TR>
-<TD width="50%"><b>受ける</b> [うける]<br>(v1) to undertake; to accept; to take (lesson, test, damage); to undergo; to experience; to catch (e.g. a ball); to become popular</TD>
-<TD width="50%"><b>受かる</b> [うかる]<br>(v5r) to pass (examination)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>掛ける</b> [かける]<br>(aux-v,v1) (1) to wear; to put on; to hang; to cover; (2) to sit down; (3) to make a phone call; (4) to multiply; (5) to turn on (a switch); to play (a record); (6) to begin to; (7) to pour (water)</TD>
-<TD width="50%"><b>掛かる</b> [かかる]<br>(v5r,vi) to take (e.g. time, money, etc); to hang</TD>
-</TR>
-<TR>
-<TD width="50%"><b>授ける</b> [さずける]<br>(v1) to grant; to award; to teach</TD>
-<TD width="50%"><b>授かる</b> [さずかる]<br>(v5r) to be gifted; to be awarded</TD>
-</TR>
-<TR>
-<TD width="50%"><b>挙げる</b> [あげる]<br>(v1) (1) to raise; to fly; (2) to give (an example)</TD>
-<TD width="50%"><b>挙がる</b> [あがる]<br>(v5r) to become prosperous; to be captured</TD>
-</TR>
-<TR>
-<TD width="50%"><b>揚げる</b> [あげる]<br>(v1) to lift; to fly</TD>
-<TD width="50%"><b>揚がる</b> [あがる]<br>(v5r) to rise</TD>
-</TR>
-<TR>
-<TD width="50%"><b>空ける</b> [あける]<br>(v1,vt) to empty<br>also <b>開ける</b></TD>
-<TD width="50%"><b>空く</b> [あく]<br>(v5k,vi) (1) to open; to become open; to become empty; (2) to be less crowded<br>also <b>開く</b></TD>
-</TR>
-<TR>
-<TD width="50%"><b>片付ける</b> [かたづける]<br>(v1,vt) (1) to tidy up; to put in order; to straighten up; to put away; (2) to settle (problem); to clear (dispute); (3) to finish; to bring something to an end; (4) to marry off (e.g. a daughter); (5) to do away with someone; to bump someone off</TD>
-<TD width="50%"><b>片付く</b> [かたづく]<br>(v5k,vi) (1) to be put in order; to be put to rights; (2) to be disposed of; to be solved; (3) to be finished; (4) to be married (off)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>負ける</b> [まける]<br>(v1) to lose; to be defeated</TD>
-<TD width="50%"><b>負かす</b> [まかす]<br>(v5s) to defeat</TD>
-</TR>
-<TR>
-<TD width="50%"><b>分ける</b> [わける]<br>(v1) to divide; to separate; to make distinctions; to differentiate (between)</TD>
-<TD width="50%"><b>分かる</b> [わかる]<br>(v5r) (1) to understand; to grasp; (2) to know; to realize; to realise</TD>
-</TR>
-<TR>
-<TD width="50%"><b>上げる</b> [あげる]<br>(v1) to give; to raise; to elevate; to fly (kites); to praise; to increase; to advance; to promote; to vomit; to usher in; to admit; to send (to school); to offer; to present; to leave with; to finish; to arrange (expenses); to observe; to perform; to quote; to mention; to bear (a child); to improve (talents); to do up (the hair); to arrest; to engage; to fry; (rains) to stop</TD>
-<TD width="50%"><b>上がる</b> [あがる]<br>(v5r) (1) to enter; to go up; to rise; to climb up; to advance; to appreciate; to be promoted; to improve; to call on; to be offered; to accrue; (2) to be finished; to go bankrupt; to be caught; to let up (rain); (3) to weaken (as a battery); (4) to get ruffled</TD>
-</TR>
-<TR>
-<TD width="50%"><b>下げる</b> [さげる]<br>(v1) to hang; to lower; to move back; to wear; to dismiss; to grant</TD>
-<TD width="50%"><b>下がる</b> [さがる]<br>(v5r) to hang down; to abate; to retire; to fall; to step back</TD>
-</TR>
-<TR>
-<TD width="50%"><b>繋げる</b> [つなげる]<br>(v1) to connect <br>also <b>繋ぐ</b> [つなぐ]</TD>
-<TD width="50%"><b>繋がる</b> [つながる]<br>(v5r) to be tied together; to be connected to; to be related to</TD>
-</TR>
-<TR>
-<TD width="50%"><b>広げる</b> [ひろげる]<br>(v1) to spread; to extend; to expand; to enlarge; to widen; to broaden; to unfold; to open; to unroll</TD>
-<TD width="50%"><b>広がる</b> [ひろがる]<br>(v5r) to spread (out); to extend; to stretch; to reach to; to get around</TD>
-</TR>
-<TR>
-<TD width="50%"><b>曲げる</b> [まげる]<br>(v1) to bend; to crook; to lean</TD>
-<TD width="50%"><b>曲がる</b> [まがる]<br>(v5r) to turn; to bend</TD>
-</TR>
-<TR>
-<TD width="50%"><b>混ぜる</b> [まぜる]<br>(v1) to mix; to stir</TD>
-<TD width="50%"><b>混ざる</b> [まざる]<br>(v5r,vi) to be mixed; to be blended with; to associate with; to mingle with; to join</TD>
-</TR>
-<TR>
-<TD width="50%"><b>捨てる</b> [すてる]<br>(v1) to throw away; to cast aside; to abandon; to resign</TD>
-<TD width="50%"><b>廃る</b> [すたる]<br>(v5r) to go out of use; to become obsolete; to die out; to go out of fashion</TD>
-</TR>
-<TR>
-<TD width="50%"><b>当てる</b> [あてる]<br>(v1) (1) to hit; (2) to expose; (3) to apply (e.g. patch); (4) to allot; to call on someone (e.g. in class); (5) to guess (an answer); (6) to make a hit (e.g. in a lottery)</TD>
-<TD width="50%"><b>当たる</b> [あたる]<br>(v5r) to be hit; to be successful; to face (confront); to lie (in the direction of); to undertake; to treat; to be equivalent to; to apply to; to be applicable; to be assigned</TD>
-</TR>
-<TR>
-<TD width="50%"><b>茹でる</b> [ゆでる]<br>(v1) to boil</TD>
-<TD width="50%"><b>茹だる</b> [うだる]<br>(v5r,vi) (1) to boil; to seethe; (2) to be oppressed by heat</TD>
-</TR>
-<TR>
-<TD width="50%"><b>重ねる</b> [かさねる]<br>(v1) to pile up; to put something on another; to heap up; to add; to repeat</TD>
-<TD width="50%"><b>重なる</b> [かさなる]<br>to be piled up; lie on top of one another; overlap each other</TD>
-</TR>
-<TR>
-<TD width="50%"><b>連ねる</b> [つらねる]<br>(v1) to link; to join; to put together</TD>
-<TD width="50%"><b>連なる</b> [つらなる]<br>(v5r) to extend; to stretch out; to stand in a row</TD>
-</TR>
-<TR>
-<TD width="50%"><b>温める</b> [あたためる]<br>(v1) to warm; to heat</TD>
-<TD width="50%"><b>温まる</b> [あたたまる]<br>(v5r) to warm oneself; to sun oneself; to warm up; to get warm</TD>
-</TR>
-<TR>
-<TD width="50%"><b>集める</b> [あつめる]<br>(v1,vt) to collect; to assemble</TD>
-<TD width="50%"><b>集まる</b> [あつまる]<br>(v5r,vi) to gather; to collect; to assemble</TD>
-</TR>
-<TR>
-<TD width="50%"><b>改める</b> [あらためる]<br>(v1) to change; to alter; to reform; to revise</TD>
-<TD width="50%"><b>改まる</b> [あらたまる]<br>(v5r) (1) to be renewed; (2) to stand on ceremony; to be formal; (3) to take a turn for the worse</TD>
-</TR>
-<TR>
-<TD width="50%"><b>炒める</b> [いためる]<br>(v1) to stir-fry</TD>
-<TD width="50%"><b>炒まる</b> [いたまる]<br>(v5r) to be sauteed in oil</TD>
-</TR>
-<TR>
-<TD width="50%"><b>填める</b> [うずめる]<br>(v1) to bury (e.g. one's face in hands)</TD>
-<TD width="50%"><b>埋まる</b> [うずまる]<br>(v5r) to be buried; to be surrounded; to overflow; to be filled</TD>
-</TR>
-<TR>
-<TD width="50%"><b>埋める</b> [うずめる]<br>(v1) to bury (e.g. one's face in hands)</TD>
-<TD width="50%"><b>埋まる</b> [うずまる]<br>(v5r) to be buried; to be surrounded; to overflow; to be filled</TD>
-</TR>
-<TR>
-<TD width="50%"><b>収める</b> [おさめる]<br>(v1) to obtain; to reap; to pay; to supply; to accept</TD>
-<TD width="50%"><b>収まる</b> [おさまる]<br>(v5r) (1) to be in one's place; to be installed; to settle into; (2) to be obtained; to be settled; to be paid; to be delivered</TD>
-</TR>
-<TR>
-<TD width="50%"><b>治める</b> [おさめる]<br>(v1) (1) to govern; to manage; (2) to subdue</TD>
-<TD width="50%"><b>治まる</b> [おさまる]<br>(v5r) to be at peace; to clamp down; to lessen (storm, terror, anger)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>修める</b> [おさめる]<br>(v1) (1) to study; to complete (a course); to cultivate; to master; (2) to order (one's life); (3) to repair (a fault one has committed)</TD>
-<TD width="50%"><b>修まる</b> [おさまる]<br>(v5r) to govern oneself; to conduct oneself well</TD>
-</TR>
-<TR>
-<TD width="50%"><b>納める</b> [おさめる]<br>(v1) to obtain; to reap; to pay; to supply; to accept</TD>
-<TD width="50%"><b>納まる</b> [おさまる]<br>(v5r) (1) to be in one's place; to be installed; to settle into; (2) to be obtained; to be settled; to be paid; to be delivered</TD>
-</TR>
-<TR>
-<TD width="50%"><b>固める</b> [かためる]<br>(v1,vt) to harden; to freeze; to fortify</TD>
-<TD width="50%"><b>固まる</b> [かたまる]<br>(v5r,vi) to harden; to solidify; to become firm; to become certain</TD>
-</TR>
-<TR>
-<TD width="50%"><b>絡める</b> [からめる]<br>(v1) (1) to arrest; (2) to entwine; to twine around; (3) to coordinate (with)</TD>
-<TD width="50%"><b>絡まる</b> [からまる]<br>(v5r) to be entwined; to be involved<br>also <b>絡む</b> [からむ] (v5m) (1) to entangle; to entwine; (2) to pick a quarrel; (3) to be involved with</TD>
-</TR>
-<TR>
-<TD width="50%"><b>決める</b> [きめる]<br>(v1) to decide</TD>
-<TD width="50%"><b>決まる</b> [きまる]<br>(v5r) (1) to be decided; to be settled; (2) to look good in (clothes)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>清める</b> [きよめる]<br>(v1) to purify; to cleanse; to exorcise</TD>
-<TD width="50%"><b>清まる</b> [きよまる]<br>(v5r) to be purified; to be cleansed</TD>
-</TR>
-<TR>
-<TD width="50%"><b>閉める</b> [しめる]<br>(v1,vt) to close; to shut</TD>
-<TD width="50%"><b>閉まる</b> [しまる]<br>(v5r,vi) to close; to be closed</TD>
-</TR>
-<TR>
-<TD width="50%"><b>窄める</b> [すぼめる]<br>(v1) to make narrower; to shut (an umbrella); to shrug (one's shoulders); to purse (one's lips)</TD>
-<TD width="50%"><b>窄まる</b> [すぼまる]<br>(v5r) to get narrower; to contract</TD>
-</TR>
-<TR>
-<TD width="50%"><b>染める</b> [そめる]<br>(v1) to dye; to colour; to color</TD>
-<TD width="50%"><b>染まる</b> [そまる]<br>(v5r) to dye</TD>
-</TR>
-<TR>
-<TD width="50%"><b>高める</b> [たかめる]<br>(v1) to raise; to lift; to boost</TD>
-<TD width="50%"><b>高まる</b> [たかまる]<br>(v5r) to rise; to swell; to be promoted</TD>
-</TR>
-<TR>
-<TD width="50%"><b>定める</b> [さだめる]<br>(v1) to decide; to establish; to determine</TD>
-<TD width="50%"><b>定まる</b> [さだまる]<br>(v5r) to become settled; to be fixed</TD>
-</TR>
-<TR>
-<TD width="50%"><b>貯める</b> [ためる]<br>(v1) to save (i.e. in a bank)</TD>
-<TD width="50%"><b>貯まる</b> [たまる]<br>(v5r) to be saved (e.g. money)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>溜める</b> [ためる]<br>(v1) to amass; to accumulate</TD>
-<TD width="50%"><b>溜まる</b> [たまる]<br>(v5r) to collect; to gather; to save</TD>
-</TR>
-<TR>
-<TD width="50%"><b>縮める</b> [ちぢめる]<br>(v1) to shorten; to reduce; to boil down; to shrink</TD>
-<TD width="50%"><b>縮まる</b> [ちぢまる]<br>(v5r) to be shortened; to be contracted; to shrink</TD>
-</TR>
-<TR>
-<TD width="50%"><b>勤める</b> [つとめる]<br>(v1) (1) to serve; to fill a post; to serve under; to work (for); (2) to exert oneself; to endeavor; to endeavour; to be diligent; (3) to play (the part of)</TD>
-<TD width="50%"><b>勤まる</b> [つとまる]<br>(v5r) to be fit for; to be equal to; to function properly</TD>
-</TR>
-<TR>
-<TD width="50%"><b>強める</b> [つよめる]<br>(v1) to strengthen; to emphasize; to emphasise</TD>
-<TD width="50%"><b>強まる</b> [つよまる]<br>(v5r) to get strong; to gain strength</TD>
-</TR>
-<TR>
-<TD width="50%"><b>止める</b> [とどめる]<br>(v1) to stop; to cease; to put an end to</TD>
-<TD width="50%"><b>止まる</b> [とどまる]<br>(v5r) (1) to remain; to abide; to stay (in the one place); (2) to come to a halt; (3) to stop</TD>
-</TR>
-<TR>
-<TD width="50%"><b>始める</b> [はじめる]<br>(v1,vt) to start; to begin</TD>
-<TD width="50%"><b>始まる</b> [はじまる]<br>(v5r,vi) to begin</TD>
-</TR>
-<TR>
-<TD width="50%"><b>嵌める</b> [はめる]<br>(v1) (1) (col) to get in; to insert; to put on; (2) to make love</TD>
-<TD width="50%"><b>嵌まる</b> [はまる]<br>(oK) (v5r) to get into; to go into; to fit; to be fit for; to suit; to fall into; to plunge into; to be deceived; to be taken in; to fall into a trap; to be addicted to; to be deep into</TD>
-</TR>
-<TR>
-<TD width="50%"><b>広める</b> [ひろめる]<br>(v1) to broaden; to propagate</TD>
-<TD width="50%"><b>広まる</b> [ひろまる]<br>(v5r) to spread; to be propagated</TD>
-</TR>
-<TR>
-<TD width="50%"><b>纏める</b> [まとめる]<br>(v1,vt) to put in order; to collect; to bring to a conclusion</TD>
-<TD width="50%"><b>纏まる</b> [まとまる]<br>(v5r) to be collected; to be settled; to be in order</TD>
-</TR>
-<TR>
-<TD width="50%"><b>丸める</b> [まるめる]<br>(v1) to make round; to round off; to roll up; to curl up; to seduce; to cajole; to explain away</TD>
-<TD width="50%"><b>丸まる</b> [まるまる]<br>(v5r) to become rounded; to roll into a ball</TD>
-</TR>
-<TR>
-<TD width="50%"><b>緩める</b> [ゆるめる]<br>(v1) to loosen; to slow down</TD>
-<TD width="50%"><b>緩まる</b> [ゆるまる]<br>((v5r) to become loose; to slacken; to soften</TD>
-</TR>
-<TR>
-<TD width="50%"><b>暖める,温める</b> [あたためる]<br>(v1) to warm; to heat</TD>
-<TD width="50%"><b>暖まる,温まる</b> [あたたまる]<br>(v5r) to warm oneself; to sun oneself; to warm up; to get warm</TD>
-</TR>
-<TR>
-<TD width="50%"><b>泊める</b> [とめる]<br>(v1) to give shelter to; to lodge</TD>
-<TD width="50%"><b>泊まる</b> [とまる]<br>(v5r) to stay at (e.g. hotel)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>極める,窮める,究める</b> [きわめる]<br>(v1) (1) to carry to extremes; to go to the end of something; (2) to investigate thoroughly; to master</TD>
-<TD width="50%"><b>極まる,窮まる</b> [きわまる]<br>(v5r) to terminate; to reach an extreme; to be in a dilemma; to be at an end</TD>
-</TR>
-<TR>
-<TD width="50%"><b>静める,鎮める</b> [しずめる]<br>(v1,vt) to appease; to suppress; to calm</TD>
-<TD width="50%"><b>静まる,鎮まる</b> [しずまる]<br>(v5r) to quieten down; to calm down; to subside; to die down; to abate; to be suppressed</TD>
-</TR>
-<TR>
-<TD width="50%"><b>締める</b> [しめる]<br>(v1) to tie; to fasten</TD>
-<TD width="50%"><b>締まる</b> [しまる]<br>(v5r) to be shut; to be locked; to become sober</TD>
-</TR>
-<TR>
-<TD width="50%"><b>絞める</b> [しめる]<br>(v1) to strangle; to constrict</TD>
-<TD width="50%"><b>絞まる</b> [しまる]<br>(v5r) to be strangled; to be constricted</TD>
-</TR>
-<TR>
-<TD width="50%"><b>狭める</b> [せばめる]<br>(v1,vt) to narrow; to reduce; to contract</TD>
-<TD width="50%"><b>狭まる</b> [せばまる]<br>(v5r,vi) to narrow; to contract</TD>
-</TR>
-<TR>
-<TD width="50%"><b>助ける,輔ける,救ける,扶ける</b> [たすける]<br>(v1) to help; to save; to rescue; to give relief to; to spare (life); to reinforce; to promote; to abet</TD>
-<TD width="50%"><b>助かる</b> [たすかる]<br>(v5r) to be saved; to be rescued; to survive; to be helpful</TD>
-</TR>
-<TR>
-<TD width="50%"><b>見付ける</b> [みつける]<br>(v1) to be familiar; to discover; to find fault; to detect; to find out; to locate</TD>
-<TD width="50%"><b>見付かる</b> [みつかる]<br>(v5r) (uk) to be found; to be discovered</TD>
-</TR>
-<TR>
-<TD width="50%"><b>漬ける</b> [つける]<br>(v1) to soak; to moisten; to pickle</TD>
-<TD width="50%"><b>漬かる</b> [つかる]<br>(v5r) (1) to be pickled; to be well seasoned; (2) to be submerged; to be soaked</TD>
-</TR>
-<TR>
-<TD width="50%"><b>植える</b> [うえる]<br>(v1) to plant; to grow</TD>
-<TD width="50%"><b>植わる</b> [うわる]<br>(v5r) to be planted</TD>
-</TR>
-<TR>
-<TD width="50%"><b>終える</b> [おえる]<br>(v1) to finish</TD>
-<TD width="50%"><b>終わる</b> [おわる]<br>(v5r) to finish; to close</TD>
-</TR>
-<TR>
-<TD width="50%"><b>変える</b> [かえる]<br>(v1,vt) to change; to alter; to vary; to convert; to revise; to amend</TD>
-<TD width="50%"><b>変わる</b> [かわる]<br>(v5r,vi) to change; to be transformed; to vary; to be revised; to be different; to move location</TD>
-</TR>
-<TR>
-<TD width="50%"><b>換える</b> [かえる]<br>(v1) to exchange; to interchange; to substitute; to replace</TD>
-<TD width="50%"><b>換わる</b> [かわる]<br>(v5r,vi) to take the place of; to relieve; to be substituted for; to be exchanged; to change places with; to take turns; to be replaced</TD>
-</TR>
-<TR>
-<TD width="50%"><b>替える,代える</b> [かえる]<br>(v1) to exchange; to interchange; to substitute; to replace</TD>
-<TD width="50%"><b>替わる,代わる</b> [かわる]<br>(v5r,vi) to take the place of; to relieve; to be substituted for; to be exchanged; to change places with; to take turns; to be replaced</TD>
-</TR>
-<TR>
-<TD width="50%"><b>据える</b> [すえる]<br>(v1) to set (table); to lay (foundation); to place (gun); to apply (moxa)</TD>
-<TD width="50%"><b>座る</b> [すわる]<br>(v5r) to sit; to squat</TD>
-</TR>
-<TR>
-<TD width="50%"><b>備える</b> [そなえる]<br>(v1) (1) to furnish; to provide for; to equip; to install; (2) to have ready; to prepare for; (3) to possess; to have; to be endowed with; to be armed with</TD>
-<TD width="50%"><b>備わる</b> [そなわる]<br>(v5r) (1) to be furnished with; to be endowed with; (2) to be among; to be one of; to be possessed of</TD>
-</TR>
-<TR>
-<TD width="50%"><b>伝える</b> [つたえる]<br>(v1) to convey; to report; to transmit; to communicate; to tell; to impart; to propagate; to teach; to bequeath</TD>
-<TD width="50%"><b>伝わる</b> [つたわる]<br>(v5r) to be handed down; to be introduced; to be transmitted; to be circulated; to go along; to walk along</TD>
-</TR>
-<TR>
-<TD width="50%"><b>横たえる</b> [よこたえる]<br>(v1) to lie down; to lay (oneself) down</TD>
-<TD width="50%"><b>横たわる</b> [よこたわる]<br>(v5r) to lie down; to stretch out</TD>
-</TR>
-<TR>
-<TD width="50%"><b>加える</b> [くわえる]<br>(v1) to append; to sum up; to add (up); to include; to increase; to inflict</TD>
-<TD width="50%"><b>加わる</b> [くわわる]<br>(v5r) to join in; to accede to; to increase; to gain in (influence)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>教える</b> [おしえる]<br>(v1) to teach; to inform; to instruct</TD>
-<TD width="50%"><b>教わる</b> [おそわる]<br>(v5r) to be taught</TD>
-</TR>
-<TR>
-<TD width="50%"><b>舞う</b> [まう]<br>(v5u,vi) to dance; to flutter about; to revolve</TD>
-<TD width="50%"><b>回る</b> [まわる]<br>(v5r) (1) to turn; to revolve; (2) to visit several places</TD>
-</TR>
-<TR>
-<TD width="50%"><b>刺す</b> [さす]<br>(v5s) to pierce; to stab; to prick; to thrust; to bite; to sting; to pin down; to stitch; to put (a runner) out; to pole (a boat); to catch (with a line); to stick</TD>
-<TD width="50%"><b>刺さる</b> [ささる]<br>(v5r) to stick; to be stuck</TD>
-</TR>
-<TR>
-<TD width="50%"><b>塞ぐ</b> [ふさぐ]<br>(v5g,vt) to stop up; to close up; to block (up); to occupy; to fill up; to take up; to stand in another's way; to plug up; to shut up</TD>
-<TD width="50%"><b>塞がる</b> [ふさがる]<br>(v5r,vi) to be plugged up; to be shut up</TD>
-</TR>
-<TR>
-<TD width="50%"><b>磨ぐ/研ぐ</b> [とぐ]<br>(v5g) to sharpen; to grind; to scour; to hone; to polish; to wash (rice)</TD>
-<TD width="50%"><b>尖る</b> [とがる]<br>(v5r) to taper to a point; to become sharp; to be sour; to look displeased</TD>
-</TR>
-<TR>
-<TD width="50%"><b>包む</b> [くるむ]<br>(v5m) to be engulfed in; to be enveloped by; to wrap up; to tuck in; to pack; to do up; to cover with; to dress in; to conceal</TD>
-<TD width="50%"><b>包まる</b> [くるまる]<br>(v5r) to be wrapped up (e.g. in a blanket); to cover oneself</TD>
-</TR>
-<TR>
-<TD width="50%"><b>込める</b> [こめる]<br>(v1) to include; to put into</TD>
-<TD width="50%"><b>籠もる</b> [こもる]<br>(v5r) to seclude oneself; to be confined in; to be implied; to be stuffy</TD>
-</TR></TABLE></CENTER>
-<P>
-The next table has verbs where the transitive/intransitive pair
-are related by an u-eru pattern (る→れる, く→ける, etc.)
-Again a few at the end are not quite regular in this formation.
-</P>
-<P>
-</P>
-<CENTER><TABLE BORDER CELLPADDING=5>
-<TR>
-<TD width="50%"><B> TRANSITIVE</B></TD>
-<TD width="50%"><B> INTRANSITIVE</B></TD>
-</TR>
-<TR>
-<TD width="50%"><b>折る</b> [おる]<br>(v5r) to break; to fold; to pick flower</TD>
-<TD width="50%"><b>折れる</b> [おれる]<br>(v1,vi,vt) to break; to be folded; to give in; to turn (a corner)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>切る</b> [きる]<br>(suf,v5r) to cut; to chop; to hash; to carve; to saw; to clip; to shear; to slice; to strip; to fell; to cut down; to punch; to sever (connections); to pause; to break off; to disconnect; to turn off; to hang up; to cross (a street); to discount; to sell below cost; to shake (water) off; to finish; to be through; to complete</TD>
-<TD width="50%"><b>切れる</b> [きれる]<br>(v1) (1) to cut well; to be sharp; (2) to break (off); to snap; to wear out; (3) to be injured; (4) to burst; to collapse; (5) to be disconnected; to be out of; to expire; to sever (connections) with; (6) to be shrewd; to have a sharp mind</TD>
-</TR>
-<TR>
-<TD width="50%"><b>破る</b> [やぶる]<br>(v5r,vt) to tear; to violate; to defeat; to smash; to destroy</TD>
-<TD width="50%"><b>破れる</b> [やぶれる]<br>(v1) to get torn; to wear out</TD>
-</TR>
-<TR>
-<TD width="50%"><b>割る</b> [わる]<br>(v5r) to divide; to cut; to break; to halve; to separate; to split; to rip; to crack; to smash; to dilute</TD>
-<TD width="50%"><b>割れる</b> [われる]<br>(v1,vi) to break; to split; to cleave; to fissure; to be smashed; to crack; to be torn</TD>
-</TR>
-<TR>
-<TD width="50%"><b>削る</b> [けずる]<br>(v5r) (1) to shave (wood or leather); to sharpen; to plane; to whittle; to pare; to scrape off; (2) to cross out; to reduce; to curtail; to remove; to erase</TD>
-<TD width="50%"><b>削れる</b> [けずれる]<br>(v5r) to be shaved or planed</TD>
-</TR>
-<TR>
-<TD width="50%"><b>擦る</b> [かする]<br>(v5r) to touch lightly; to take a percentage (from)</TD>
-<TD width="50%"><b>擦れる</b> [すれる]<br>(v1) to rub; to chafe; to wear; to become sophisticated</TD>
-</TR>
-<TR>
-<TD width="50%"><b>解く</b> [ほどく]<br>(v5k) to unfasten</TD>
-<TD width="50%"><b>解ける</b> [ほどける]<br>(v1) to come untied; to come apart</TD>
-</TR>
-<TR>
-<TD width="50%"><b>解く</b> [とく]<br>(v5k) to solve; to answer; to untie</TD>
-<TD width="50%"><b>解ける</b> [とける]<br>(v1) (1) to loosen; to come untied; (2) to be solved; (3) to be removed; to be cleared</TD>
-</TR>
-<TR>
-<TD width="50%"><b>取る</b> [とる]<br>(v5r) to take; to pick up; to harvest; to earn; to choose</TD>
-<TD width="50%"><b>取れる</b> [とれる]<br>(v1) to come off; to be taken off; to be removed; to be obtained; to leave; to come out (e.g. photo); to be interpreted</TD>
-</TR>
-<TR>
-<TD width="50%"><b>撚る</b> [よる]<br>(v5r) to twist (yarn); to lay (rope)</TD>
-<TD width="50%"><b>縒れる</b> [よれる]<br>(v1) to get twisted; to get kinked</TD>
-</TR>
-<TR>
-<TD width="50%"><b>捻る (捻じる) </b> [ねじる]<br>(v5r) (1) to screw; to twist; (2) to distort; (3) to torture; to wrest</TD>
-<TD width="50%"><b>捻れる</b> [ねじれる]<br>(v1) to twist; to wrench; to screw</TD>
-</TR>
-<TR>
-<TD width="50%"><b>釣る</b> [つる]<br>(v5r) to fish</TD>
-<TD width="50%"><b>釣れる</b> [つれる]<br>(v1) to be fished</TD>
-</TR>
-<TR>
-<TD width="50%"><b>抜く</b> [ぬく]<br>(v5k) (1) to extract; to omit; to surpass; to overtake; to draw out; to unplug; (2) (suf) to do something to the end</TD>
-<TD width="50%"><b>抜ける</b> [ぬける]<br>(v1) to come out; to fall out; to be omitted; to be missing; to escape</TD>
-</TR>
-<TR>
-<TD width="50%"><b>裂く</b> [さく]<br>(v5k) to tear; to split</TD>
-<TD width="50%"><b>裂ける</b> [さける]<br>(v1) to split; to tear; to burst</TD>
-</TR>
-<TR>
-<TD width="50%"><b>割く</b> [さく]<br>(v5k) to cut up; to separate; to spare (e.g. time); to cleave; to sever; to divide; to cede; to alienate</TD>
-<TD width="50%"><b>割ける</b> [さける]<br>(v1) to be separated; to be divided</TD>
-</TR>
-<TR>
-<TD width="50%"><b>使う</b> [つかう]<br>(v5u) to use; to handle; to manipulate; to employ; to need; to want; to spend; to consume; to speak (English); to practise (fencing); to practice (fencing); to take (one's lunch); to circulate (bad money)</TD>
-<TD width="50%"><b>仕える</b> [つかえる]<br>(v1) to serve; to work for</TD>
-</TR>
-<TR>
-<TD width="50%"><b>焼く</b> [やく]<br>(v5k) to bake; to grill</TD>
-<TD width="50%"><b>焼ける</b> [やける]<br>(v1,vi) to burn; to be roasted; to be sunburnt</TD>
-</TR>
-<TR>
-<TD width="50%"><b>張る</b> [はる]<br>(v5r,vi,vt) to stick; to paste; to put; to affix; to stretch; to spread; to strain; to stick out; to slap; to be expensive; to tighten</TD>
-<TD width="50%"><b>腫れる</b> [はれる]<br>(v1) to swell (from inflammation); to become swollen</TD>
-</TR>
-<TR>
-<TD width="50%"><b>思う</b> [おもう]<br>(v5u) to think; to feel</TD>
-<TD width="50%"><b>思える</b> [おもえる]<br>(v1) to seem; to appear likely</TD>
-</TR>
-<TR>
-<TD width="50%"><b>知る</b> [しる]<br>(v5r) to know; to understand; to be acquainted with; to feel</TD>
-<TD width="50%"><b>知れる</b> [しれる]<br>(v1) to become known; to come to light; to be discovered</TD>
-</TR>
-<TR>
-<TD width="50%"><b>砕く</b> [くだく]<br>(v5k,vt) to break; to smash</TD>
-<TD width="50%"><b>砕ける</b> [くだける]<br>(v1,vi) to break; to be broken</TD>
-</TR>
-<TR>
-<TD width="50%"><b>欠く</b> [かく]<br>(v5k) to lack; to break; to crack; to chip</TD>
-<TD width="50%"><b>欠ける</b> [かける]<br>(v1) to be lacking</TD>
-</TR>
-<TR>
-<TD width="50%"><b>脱ぐ</b> [ぬぐ]<br>(v5g) to take off (clothes, shoes, etc.); to undress</TD>
-<TD width="50%"><b>脱げる</b> [ぬげる]<br>(v1) to come off; to slip down; to slip off</TD>
-</TR>
-<TR>
-<TD width="50%"><b>売る</b> [うる]<br>(v5r) to sell</TD>
-<TD width="50%"><b>売れる</b> [うれる]<br>(v1) to be sold</TD>
-</TR>
-<TR>
-<TD width="50%"><b>弾く</b> [はじく]<br>(v5k) to flip; to snap</TD>
-<TD width="50%"><b>弾ける</b> [はじける]<br>(v1) to burst open; to split open; to pop</TD>
-</TR>
-<TR>
-<TD width="50%"><b>捲る</b> [まくる]<br>(suf,v5r) (1) to turn up; to roll up (e.g. sleeves); (2) verb suffix to indicate reckless abandon to the activity</TD>
-<TD width="50%"><b>捲れる</b> [まくれる]<br>(v1) to be (get) turned up (inside out)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>捲る</b> [めくる]<br>(v5r) to turn over; to turn pages of a book; to tear off; to strip off</TD>
-<TD width="50%"><b>捲れる</b> [まくれる]<br>(v1) to be (get) turned up (inside out)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>分ける</b> [わける]<br>(v1) to divide; to separate; to make distinctions; to differentiate (between)</TD>
-<TD width="50%"><b>分かれる</b> [わかれる]<br>(v1) to branch off; to diverge from; to fork; to split; to dispense; to scatter; to divide into</TD>
-</TR>
-<TR>
-<TD width="50%"><b>開く</b> [あく]<br>(v5k,vi) (1) to open; to become open; to become empty</TD>
-<TD width="50%"><b>開ける</b> [あける]<br>(v1) to open</TD>
-</TR>
-<TR>
-<TD width="50%"><b>聞く</b> [きく]<br>(v5k) (1) to hear; to listen; (2) to ask</TD>
-<TD width="50%"><b>聞こえる</b> [きこえる]<br>(v1) (1) to be heard; to be audible; (2) to be said to be; to be reputed</TD>
-</TR>
-<TR>
-<TD width="50%"><b>見る</b> [みる]<br>(v1) (1) to see; to watch; (2) (as an auxiliary verb) to try</TD>
-<TD width="50%"><b>見える</b> [みえる]<br>(v1) to be seen; to be in sight; to look; to seem; to appear</TD>
-</TR>
-<TR>
-<TD width="50%"><b>煮る</b> [にる]<br>(v1,vt) to boil; to cook</TD>
-<TD width="50%"><b>煮える</b> [にえる]<br>(v1,vi) to boil; to cook; to be cooked</TD>
-</TR>
-<TR>
-<TD width="50%"><b>炊く</b> [たく]<br>(v5k) to boil; to cook</TD>
-<TD width="50%"><b>炊ける</b> [たける]<br>(v1) to be boiled; to be cooked; to be done; to be ready</TD>
-</TR>
-<TR>
-<TD width="50%"><b>刳る</b> [えぐる]<br>(v5r) to gouge; to hollow out; to bore; to excavate; to scoop out</TD>
-<TD width="50%"><b>刳れる</b> [えぐれる]<br>(v1) to be gouged; to be hollowed</TD>
-</TR>
-<TR>
-<TD width="50%"><b>振るう</b> [ふるう]<br>(v5u) to flourish; to prosper; to thrive</TD>
-<TD width="50%"><b>震える</b> [ふるえる]<br>(v1) to shiver; to shake; to quake</TD>
-</TR></TABLE></CENTER>
-<P>
-In the next table the direction changes, and the intransitive/transitive pair
-are related by the u-eru pattern (む→める, く→ける, etc.)
-</P>
-<P>
-</P>
-<CENTER><TABLE BORDER CELLPADDING=5>
-<TR>
-<TD width="50%"><B> INTRANSITIVE</B></TD>
-<TD width="50%"><B> TRANSITIVE</B></TD>
-</TR>
-<TR>
-<TD width="50%"><b>合う</b> [あう]<br>(v5u) to fit; to suit; to agree with; to match; to be correct; to be profitable</TD>
-<TD width="50%"><b>和える</b> [あえる]<br>(v1) to dress vegetables (salad)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>赤らむ</b> [あからむ]<br>(v5m) to become red; to redden; to blush</TD>
-<TD width="50%"><b>赤らめる</b> [あからめる]<br>(v1) to blush; to redden</TD>
-</TR>
-<TR>
-<TD width="50%"><b>傷む</b> [いたむ]<br>(v5m) to be damaged; to go bad</TD>
-<TD width="50%"><b>傷める</b> [いためる]<br>(v1) to damage; to impair; to spoil</TD>
-</TR>
-<TR>
-<TD width="50%"><b>痛む</b> [いたむ]<br>(v5m) to hurt; to feel a pain; to be injured</TD>
-<TD width="50%"><b>痛める</b> [いためる]<br>(v1) to hurt; to injure; to cause pain; to worry; to bother; to afflict; to be grieved over</TD>
-</TR>
-<TR>
-<TD width="50%"><b>開く</b> [あく]<br>(v5k,vi) (1) to open; to become open; to become empty</TD>
-<TD width="50%"><b>開ける</b> [あける]<br>(v1) to open</TD>
-</TR>
-<TR>
-<TD width="50%"><b>点く</b> [つく]<br>(v5k) (1) to catch fire; (2) to be lit, e.g. electricity comes on; to be lighted</TD>
-<TD width="50%"><b>点ける</b> [つける]<br>(v1) (uk) to turn on; to switch on; to light up</TD>
-</TR>
-<TR>
-<TD width="50%"><b>痛む</b> [いたむ]<br>(v5m) to hurt; to feel a pain; to be injured</TD>
-<TD width="50%"><b>痛める</b> [いためる]<br>(v1) to hurt; to injure; to cause pain; to worry; to bother; to afflict; to be grieved over</TD>
-</TR>
-<TR>
-<TD width="50%"><b>入る</b> [いる]<br>(v5r) to get in; to go in; to come in; to flow into; to set; to set in</TD>
-<TD width="50%"><b>入れる</b> [いれる]<br>(v1) to put in; to take in; to bring in; to let in; to admit; to introduce; to commit (to prison); to usher in; to insert; to set (jewels); to employ; to listen to; to tolerate; to comprehend; to include; to pay (interest); to cast (votes)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>浮かぶ</b> [うかぶ]<br>(v5b) to float; to rise to surface; to come to mind</TD>
-<TD width="50%"><b>浮かべる</b> [うかべる]<br>(v1) to float; to express; to look (sad, glad)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>交う</b> [かう]<br>(v5u) to take turns; to mingle together</TD>
-<TD width="50%"><b>換える</b> [かえる]<br>(v1) to exchange; to interchange; to substitute; to replace</TD>
-</TR>
-<TR>
-<TD width="50%"><b>絡む</b> [からむ]<br>(v5m) (1) to entangle; to entwine; (2) to pick a quarrel; (3) to be involved with</TD>
-<TD width="50%"><b>絡める</b> [からめる]<br>(v1) (1) to arrest; (2) to entwine; to twine around; (3) to coordinate (with)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>込む</b> [こむ]<br>(v5m) (1) to be crowded; (2) to go inside (usu. only when used in compound verbs)</TD>
-<TD width="50%"><b>込める</b> [こめる]<br>(v1) to include; to put into</TD>
-</TR>
-<TR>
-<TD width="50%"><b>沈む</b> [しずむ]<br>(v5m) to sink; to feel depressed</TD>
-<TD width="50%"><b>沈める</b> [しずめる]<br>(v1,vt) to sink; to submerge</TD>
-</TR>
-<TR>
-<TD width="50%"><b>従う</b> [したがう]<br>(v5u) to abide (by the rules); to obey; to follow; to accompany</TD>
-<TD width="50%"><b>従える</b> [したがえる]<br>(v1) (1) to be accompanied by; (2) to subdue</TD>
-</TR>
-<TR>
-<TD width="50%"><b>退く</b> [しりぞく]<br>(v5k,vi) (1) to retreat; to recede; to withdraw; (2) to retire</TD>
-<TD width="50%"><b>退ける</b> [しりぞける]<br>(v1,vt) to repel; to drive away; to repulse; to reject</TD>
-</TR>
-<TR>
-<TD width="50%"><b>進む</b> [すすむ]<br>(v5m,vi) to make progress; to advance; to improve</TD>
-<TD width="50%"><b>進める</b> [すすめる]<br>(v1,vt) to advance; to promote; to hasten</TD>
-</TR>
-<TR>
-<TD width="50%"><b>窄む</b> [すぼむ]<br>(v5m) to get narrower; to contract</TD>
-<TD width="50%"><b>窄める</b> [すぼめる]<br>(v1) to make narrower; to shut (an umbrella); to shrug (one's shoulders); to purse (one's lips)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>育つ</b> [そだつ]<br>(v5t,vi) to be raised (e.g. child); to be brought up; to grow (up)</TD>
-<TD width="50%"><b>育てる</b> [そだてる]<br>(v1,vt) to raise; to rear; to bring up</TD>
-</TR>
-<TR>
-<TD width="50%"><b>建つ</b> [たつ]<br>(v5t) to erect; to be erected; to be built</TD>
-<TD width="50%"><b>建てる</b> [たてる]<br>(v1) to build; to construc</TD>
-</TR>
-<TR>
-<TD width="50%"><b>背く</b> [そむく]<br>(v5k) to run counter to; to go against; to disobey; to infringe</TD>
-<TD width="50%"><b>背ける</b> [そむける]<br>(v1) to turn one's face away; to avert one's eyes</TD>
-</TR>
-<TR>
-<TD width="50%"><b>揃う</b> [そろう]<br>(v5u) to become complete; to be equal; to be all present; to gather</TD>
-<TD width="50%"><b>揃える</b> [そろえる]<br>(v1) to put things in order; to arrange; to make uniform; to get something ready</TD>
-</TR>
-<TR>
-<TD width="50%"><b>揃う</b> [そろう]<br>(v5u) to become complete; to be equal; to be all present; to gather</TD>
-<TD width="50%"><b>揃える</b> [そろえる]<br>(v1) to put things in order; to arrange; to make uniform; to get something ready</TD>
-</TR>
-<TR>
-<TD width="50%"><b>平らぐ</b> [たいらぐ]<br>(v5g) to be suppressed</TD>
-<TD width="50%"><b>平らげる</b> [たいらげる]<br>(v1) to subjugate; to put down (trouble); to consume (food); to eat up</TD>
-</TR>
-<TR>
-<TD width="50%"><b>立つ</b> [たつ]<br>(v5t) to stand</TD>
-<TD width="50%"><b>立てる</b> [たてる]<br>(v1) to stand (something) up; to erect (something)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>縮む</b> [ちぢむ]<br>(v5m) to shrink; to be contracted</TD>
-<TD width="50%"><b>縮める</b> [ちぢめる]<br>(v1) to shorten; to reduce; to boil down; to shrink</TD>
-</TR>
-<TR>
-<TD width="50%"><b>付く</b> [つく]<br>(v5k,vi) to adjoin; to be attached; to adhere; to be connected with; to be dyed; to be stained; to be scarred; to be recorded; to start (fires); to follow; to become allied to; to accompany; to study with; to increase; to be added to</TD>
-<TD width="50%"><b>付ける</b> [つける]<br>(v1,vt) (1) to attach; to join; to add; to append; to affix; to stick; to glue; to fasten; to sew on; to apply (ointment); (2) to furnish (a house with); (3) to wear; to put on; (4) to keep a diary; to make an entry; (5) to appraise; to set (a price); (6) to bring alongside; (7) to place (under guard or doctor); (8) to follow; to shadow; (9) to load; to give (courage to); (10) to keep (an eye on); (11) to establish (relations or understanding)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>続く</b> [つづく]<br>(v5k,vi) to be continued</TD>
-<TD width="50%"><b>続ける</b> [つづける]<br>(v1,vt) to continue; to keep up; to keep on</TD>
-</TR>
-<TR>
-<TD width="50%"><b>退く</b> [どく]<br>(v5k,vi) (1) to retreat; to recede; to withdraw</TD>
-<TD width="50%"><b>退ける</b> [どける]<br>(v1) to remove; to take away; to dislodge; to put something out of the way</TD>
-</TR>
-<TR>
-<TD width="50%"><b>届く</b> [とどく]<br>(v5k,vi) to reach</TD>
-<TD width="50%"><b>届ける</b> [とどける]<br>(v1) to deliver; to forward; to send; to report; to file notice (to the authorities)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>整う</b> [ととのう]<br>(v5u) to be prepared; to be in order; to be put in order; to be arranged</TD>
-<TD width="50%"><b>整える</b> [ととのえる]<br>(v1) (1) to put in order; to arrange; to adjust; (2) to get ready; to prepare; (3) to raise money</TD>
-</TR>
-<TR>
-<TD width="50%"><b>間違う</b> [まちがう]<br>(v5u) to make a mistake; to be incorrect; to be mistaken</TD>
-<TD width="50%"><b>間違える</b> [まちがえる]<br>(v1) to err; to make a mistake</TD>
-</TR>
-<TR>
-<TD width="50%"><b>温む</b> [ぬるむ]<br>(v5m) to cool off; to become tepid</TD>
-<TD width="50%"><b>温める</b> [ぬるめる]<br>(v1) to cool something down (e.g. by adding water)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>退く</b> [のく]<br>(v5k,vi) (1) to retreat; to recede; to withdraw</TD>
-<TD width="50%"><b>退ける</b> [のける]<br>(v1) to remove; to take away; to dislodge; to put something out of the way</TD>
-</TR>
-<TR>
-<TD width="50%"><b>向く</b> [むく]<br>(v5k) (1) to face; (2) to turn toward; (3) to be suited to; to be fit for<br>向かう</b> [むかう]<br>(v5u) (1) to face; (2) to go towards</TD>
-<TD width="50%"><b>向ける</b> [むける]<br>(v1) to turn towards; to point</TD>
-</TR>
-<TR>
-<TD width="50%"><b>止む</b> [やむ]<br>(v5m,vi) to cease; to stop; to be over</TD>
-<TD width="50%"><b>止める</b> [やめる]<br>(v1,vt) to end; to stop; to cease; to resign</TD>
-</TR>
-<TR>
-<TD width="50%"><b>苦しむ</b> [くるしむ]<br>(v5m) to suffer; to groan; to be worried</TD>
-<TD width="50%"><b>苦しめる</b> [くるしめる]<br>(v1) to torment; to harass; to inflict pain</TD>
-</TR>
-<TR>
-<TD width="50%"><b>和らぐ</b> [やわらぐ]<br>(v5g) to soften; to calm down; to be mitigated</TD>
-<TD width="50%"><b>和らげる</b> [やわらげる]<br>(v1) to soften; to moderate; to relieve</TD>
-</TR>
-<TR>
-<TD width="50%"><b>緩む</b> [ゆるむ]<br>(v5m) to become loose; to slacken</TD>
-<TD width="50%"><b>緩める</b> [ゆるめる]<br>(v1) to loosen; to slow down</TD>
-</TR>
-<TR>
-<TD width="50%"><b>竦む</b> [すくむ]<br>(v5m) to cower; to be cramped</TD>
-<TD width="50%"><b>竦める</b> [すくめる]<br>(v1) to shrug (shoulders); to duck (head); to draw back (body)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>並ぶ</b> [ならぶ]<br>(v5b,vi) to line up; to stand in a line</TD>
-<TD width="50%"><b>並べる</b> [ならべる]<br>(v1,vt) to line up; to set up</TD>
-</TR>
-<TR>
-<TD width="50%"><b>延びる</b> [のびる]<br>(v1,vi) (1) to stretch; to extend; to lengthen; to spread; (2) to make progress; to grow (beard, body height); (3) to grow stale (soba); (4) to be straightened; to be flattened; to be smoothed; (5) to be exhausted; (6) to be postponed; to be prolonged</TD>
-<TD width="50%"><b>延べる</b> [のべる]<br>(v1) to make (bed); to stretch; to widen</TD>
-</TR>
-<TR>
-<TD width="50%"><b>混じる</b> [まじる]<br>(v5r,vi) to be mixed; to be blended with; to associate with; to mingle with; to interest; to join</TD>
-<TD width="50%"><b>混ぜる</b> [まぜる]<br>(v1) to mix; to stir</TD>
-</TR></TABLE></CENTER>
-<P>
-In the next table the transitive verbs all end in す. Many of these
-see an intransitive/transitive pattern of eru-asu:
-(ける→かす, れる→らす etc.)
-</P>
-<P>
-</P>
-<CENTER><TABLE BORDER CELLPADDING=5>
-<TR>
-<TD width="50%"><B> INTRANSITIVE</B></TD>
-<TD width="50%"><B> TRANSITIVE</B></TD>
-</TR>
-<TR>
-<TD width="50%"><b>出る</b> [でる]<br>(v1) to appear; to come forth; to leave</TD>
-<TD width="50%"><b>出す</b> [だす]<br>(v5s) (1) to take out; to get out; (2) to put out; (3) to submit (e.g. thesis); to turn in; (4) to publish; to make public; (5) to send (e.g. letter); to start (fire)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>冷める</b> [さめる]<br>(v1) to become cool; to wear off; to abate; to subside; to dampen; to cool down (interest); to come down (fever)</TD>
-<TD width="50%"><b>冷ます</b> [さます]<br>(v5s,vt) to cool; to dampen; to let cool; to throw a damper on; to spoil</TD>
-</TR>
-<TR>
-<TD width="50%"><b>覚める,醒める</b> [さめる]<br>to wake; to wake up</TD>
-<TD width="50%"><b>覚ます,醒ます</b> [さます]<br>(v5s) (1) to awaken; (2) to disabuse; (3) to sober up</TD>
-</TR>
-<TR>
-<TD width="50%"><b>溶ける</b> [とける]<br>(v1,vi) to melt; to thaw; to fuse; to dissolve</TD>
-<TD width="50%"><b>溶かす</b> [とかす]<br>(v5s,vt) to melt; to dissolve</TD>
-</TR>
-<TR>
-<TD width="50%"><b>生きる</b> [いきる]<br>(v1) to live; to exist</TD>
-<TD width="50%"><b>生かす</b> [いかす]<br>(v5s) to revive; to resuscitate; to make use of</TD>
-</TR>
-<TR>
-<TD width="50%"><b>潤ける</b> [ふやける]<br>(v1) (uk) to become sodden; to swell up</TD>
-<TD width="50%"><b>ふやかす</b> [ふやかす]<br>(v5s) to soak; to steep; to macerate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>枯れる</b> [かれる]<br>(v1) to wither; to die (plant); to be blasted (plant)</TD>
-<TD width="50%"><b>枯らす</b> [からす]<br>(v5s) to let dry; to kill (vegetation) to season (lumber)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>明ける</b> [あける]<br>(v1) to dawn; to become daylight</TD>
-<TD width="50%"><b>明かす</b> [あかす]<br>(v5s) to pass; spend; to reveal; to divulge</TD>
-</TR>
-<TR>
-<TD width="50%"><b>懲りる</b> [こりる]<br>(v1) to learn by experience; to be disgusted with</TD>
-<TD width="50%"><b>懲らす</b> [こらす]<br>(v5s) to chastise; to punish; to discipline</TD>
-</TR>
-<TR>
-<TD width="50%"><b>伸びる,延びる</b> [のびる]<br>(v1,vi) (1) to stretch; to extend; to lengthen; to spread; (2) to make progress; to grow (beard, body height); (3) to grow stale (soba); (4) to be straightened; to be flattened; to be smoothed; (5) to be exhausted</TD>
-<TD width="50%"><b>伸ばす,延ばす</b> [のばす]<br>(v5s,vt) to lengthen; to stretch; to reach out; to postpone; to prolong; to extend; to grow (beard)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>慣れる</b> [なれる]<br>(v1) to grow accustomed to; to become domesticated; to become tame; to get too familiar with</TD>
-<TD width="50%"><b>慣らす</b> [ならす]<br>(v5s) to accustom</TD>
-</TR>
-<TR>
-<TD width="50%"><b>揺れる</b> [ゆれる]<br>(v1) to shake; to sway</TD>
-<TD width="50%"><b>揺らす</b> [ゆらす]<br>(v5s) to rock; to shake; to swing</TD>
-</TR>
-<TR>
-<TD width="50%"><b>切れる</b> [きれる]<br>(v1) (1) to cut well; to be sharp; (2) to break (off); to snap; to wear out; (3) to be injured; (4) to burst; to collapse; (5) to be disconnected; to be out of; to expire; to sever (connections) with; (6) to be shrewd; to have a sharp mind</TD>
-<TD width="50%"><b>切らす</b> [きらす]<br>(v5s) to be out of; to run out of; to be short of; to be out of stock</TD>
-</TR>
-<TR>
-<TD width="50%"><b>捏ねる</b> [こねる]<br>(v1) to knead; to mix with fingers</TD>
-<TD width="50%"><b>熟す</b> [こなす]<br>(v5s) to break to pieces; to digest; to handle easily</TD>
-</TR>
-<TR>
-<TD width="50%"><b>逃げる</b> [にげる]<br>(v1) to escape; to run away</TD>
-<TD width="50%"><b>逃がす</b> [にがす]<br>(v5s) to let loose; to set free; to let escape</TD>
-</TR>
-<TR>
-<TD width="50%"><b>漏れる</b> [もれる]<br>(v1) to leak out; to escape; to come through; to shine through; to filter out; to be omitted</TD>
-<TD width="50%"><b>漏らす</b> [もらす]<br>(v5s) to let leak; to reveal</TD>
-</TR>
-<TR>
-<TD width="50%"><b>焦げる</b> [こげる]<br>(v1,vi) to burn; to be burned</TD>
-<TD width="50%"><b>焦がす</b> [こがす]<br>(v5s) to burn; to scorch; to singe; to char</TD>
-</TR>
-<TR>
-<TD width="50%"><b>焦れる</b> [じれる]<br>(v1) to get impatient; to become irritated; to fret; to chafe</TD>
-<TD width="50%"><b>焦らす</b> [じらす]<br>(v5s) (uk) to irritate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>滑れる</b> [ずれる]<br>(v1) (uk) to slide; to slip off</TD>
-<TD width="50%"><b>ずらす</b> [ずらす]<br>(v5s) to put off; to delay</TD>
-</TR>
-<TR>
-<TD width="50%"><b>暮れる</b> [くれる]<br>(v1) to get dark; to end; to come to an end; to close; to run out</TD>
-<TD width="50%"><b>暮らす</b> [くらす]<br>(v5s) to live; to get along</TD>
-</TR>
-<TR>
-<TD width="50%"><b>満ちる</b> [みちる]<br>(v1) to be full; to rise (tide); to mature; to expire</TD>
-<TD width="50%"><b>満たす</b> [みたす]<br>(v5s) (1) to fill (e.g. a cup); (2) to satisfy; to ingratiate; to fulfill</TD>
-</TR>
-<TR>
-<TD width="50%"><b>晴れる</b> [はれる]<br>(v1) to be sunny; to clear away; to stop raining</TD>
-<TD width="50%"><b>晴らす</b> [はらす]<br>(v5s) to dispel; to clear away; to refresh (oneself)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>暈ける</b> [ぼける]<br>(v1) to grow senile; to fade (colour, color)</TD>
-<TD width="50%"><b>暈す</b> [ぼかす]<br>(v5s) to shade off; to obscure</TD>
-</TR>
-<TR>
-<TD width="50%"><b>負ける</b> [まける]<br>(v1) to lose; to be defeated</TD>
-<TD width="50%"><b>負かす</b> [まかす]<br>(v5s) to defeat</TD>
-</TR>
-<TR>
-<TD width="50%"><b>戯れる</b> [じゃれる]<br>(v1) (1) to be playful; to gambol; to be amused (with something); to play; to sport; to frolic; to joke; (2) to flirt with</TD>
-<TD width="50%"><b>戯かす</b> [じゃらかす]<br>(v5s) to call for jokes</TD>
-</TR>
-<TR>
-<TD width="50%"><b>震える</b> [ふるえる]<br>(v1) to shiver; to shake; to quake</TD>
-<TD width="50%"><b>震わせる</b> [ふるわせる]<br>(v1) to be shaking; to be trembling</TD>
-</TR>
-<TR>
-<TD width="50%"><b>遅れる</b> [おくれる]<br>(v1) to be late; to be delayed; to fall behind schedule; to be overdue</TD>
-<TD width="50%"><b>遅らす</b> [おくらす]<br>(v5s) to retard; to delay</TD>
-</TR>
-<TR>
-<TD width="50%"><b>溺れる</b> [おぼれる]<br>(v1) to be drowned; to indulge in</TD>
-<TD width="50%"><b>溺らす</b> [おぼらす]<br>(v5s) (1) to drown; (2) to cause to be indulged or addicted</TD>
-</TR>
-<TR>
-<TD width="50%"><b>荒れる</b> [あれる]<br>(v1) to be stormy; to be rough; to lose one's temper</TD>
-<TD width="50%"><b>荒らす</b> [あらす]<br>(v5s) (1) to lay waste; to devastate; to damage; (2) to invade; to break into</TD>
-</TR>
-<TR>
-<TD width="50%"><b>飽きる</b> [あきる]<br>(v1) to get tired of; to lose interest in; to have enough</TD>
-<TD width="50%"><b>飽かす</b> [あかす]<br>(v5s) to glut; to satiate; to weary; to tire; to bore; to weary</TD>
-</TR>
-<TR>
-<TD width="50%"><b>冷える</b> [ひえる]<br>(v1,vi) to grow cold; to get chilly; to cool down</TD>
-<TD width="50%"><b>冷やす</b> [ひやす]<br>(v5s,vt) to cool; to refrigerate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>増える</b> [ふえる]<br>(v1,vi) to increase; to multiply</TD>
-<TD width="50%"><b>増やす</b> [ふやす]<br>(v5s,vt) to increase; to add to; to augment</TD>
-</TR>
-<TR>
-<TD width="50%"><b>癒える</b> [いえる]<br>(v1) to recover; to be healed</TD>
-<TD width="50%"><b>癒す</b> [いやす]<br>(v5s) to heal; to cure</TD>
-</TR>
-<TR>
-<TD width="50%"><b>費える</b> [ついえる]<br>(v1) to collapse</TD>
-<TD width="50%"><b>費やす</b> [ついやす]<br>(v5s) to spend; to devote; to waste</TD>
-</TR>
-<TR>
-<TD width="50%"><b>肥える</b> [こえる]<br>(v1) (1) to grow fat; to grow fertile; (2) to have good taste</TD>
-<TD width="50%"><b>肥やす</b> [こやす]<br>(v5s) to fertilize; to fertilise; to manure; to enrich</TD>
-</TR>
-<TR>
-<TD width="50%"><b>燃える</b> [もえる]<br>(v1) to burn</TD>
-<TD width="50%"><b>燃やす</b> [もやす]<br>(v5s) to burn</TD>
-</TR>
-<TR>
-<TD width="50%"><b>起きる</b> [おきる]<br>(v1) (1) to get up; to rise; (2) to wake up; (3) to occur; to happen; to take place<br>起こる</b> [おこる]<br>(v5r) to occur; to happen</TD>
-<TD width="50%"><b>起こす</b> [おこす]<br>(v5s) to raise; to cause; to wake someone</TD>
-</TR>
-<TR>
-<TD width="50%"><b>落ちる</b> [おちる]<br>(v1) (1) to fall down; to drop; (2) to fail (e.g. exam); (3) to crash; to degenerate; to degrade</TD>
-<TD width="50%"><b>落とす</b> [おとす]<br>(v5s) to drop; to lose; to let fall</TD>
-</TR>
-<TR>
-<TD width="50%"><b>下りる</b> [おりる]<br>(v1) to alight (e.g. from bus); to get off; to descend (e.g. a mountain)</TD>
-<TD width="50%"><b>下ろす</b> [おろす]<br>(v5s) to take down; to launch; to drop; to lower; to let (a person) off; to unload; to discharge</TD>
-</TR>
-<TR>
-<TD width="50%"><b>降りる</b> [おりる]<br>(v1) to alight (e.g. from bus); to get off; to descend (e.g. a mountain)</TD>
-<TD width="50%"><b>降ろす</b> [おろす]<br>(v5s) to take down; to launch; to drop; to lower; to let (a person) off; to unload; to discharge</TD>
-</TR>
-<TR>
-<TD width="50%"><b>干る</b> [ひる]<br>(v1) to dry</TD>
-<TD width="50%"><b>干す</b> [ほす]<br>(v5s,vt) to air; to dry; to desiccate; to drain (off); to drink up</TD>
-</TR>
-<TR>
-<TD width="50%"><b>消える</b> [きえる]<br>(v1) to go out; to vanish; to disappear</TD>
-<TD width="50%"><b>消す</b> [けす]<br>(v5s) (1) to erase; to delete; (2) to turn off power; (3) to bump off (sl)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>越える</b> [こえる]<br>(v1) to exceed; to cross over; to cross; to pass through; to pass over (out of)</TD>
-<TD width="50%"><b>越す</b> [こす]<br>(v5s) (1) to cross over (e.g. mountain); to go across; (2) to go over (e.g. with audience); (3) to pass (time, e.g. a winter); (4) to surpass; to be better than; (5) to move house</TD>
-</TR>
-<TR>
-<TD width="50%"><b>寝る</b> [ねる]<br>(v1) to go to bed; to lie down; to sleep</TD>
-<TD width="50%"><b>寝かす</b> [ねかす]<br>(v5s) to put to sleep; to lay (something) on its side</TD>
-</TR>
-<TR>
-<TD width="50%"><b>汚れる</b> [けがれる]<br>(v1) to get dirty; to become dirty</TD>
-<TD width="50%"><b>汚す</b> [けがす]<br>(v5s) (1) to disgrace; to dishonour; to dishonor; (2) to pollute; to contaminate; to soil; to make dirty; to stain</TD>
-</TR>
-<TR>
-<TD width="50%"><b>壊れる</b> [こわれる]<br>(v1,vi) to be broken; to break</TD>
-<TD width="50%"><b>壊す</b> [こわす]<br>(v5s,vt) to break; to break down</TD>
-</TR>
-<TR>
-<TD width="50%"><b>隠れる</b> [かくれる]<br>(v1,vi) to hide; to be hidden; to conceal oneself; to disappear</TD>
-<TD width="50%"><b>隠す</b> [かくす]<br>(v5s,vt) to hide; to conceal</TD>
-</TR>
-<TR>
-<TD width="50%"><b>崩れる</b> [くずれる]<br>(v1) to collapse; to crumble</TD>
-<TD width="50%"><b>崩す</b> [くずす]<br>(v5s) to destroy; to pull down; to make change (money)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>倒れる</b> [たおれる]<br>(v1,vi) to collapse; to break down; to go bankrupt; to fall; to drop; to die; to succumb to; to fall senseless; to be ruined; to have a bad debt</TD>
-<TD width="50%"><b>倒す</b> [たおす]<br>(v5s,vt) to throw down; to beat; to bring down; to blow down; to fell; to knock down; to trip up; to defeat; to ruin; to overthrow; to kill; to leave unpaid; to cheat</TD>
-</TR>
-<TR>
-<TD width="50%"><b>離れる</b> [はなれる]<br>(v1) to be separated from; to leave; to go away; to be a long way off</TD>
-<TD width="50%"><b>離す</b> [はなす]<br>(v5s) to part; to divide; to separate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>現れる</b> [あらわれる]<br>(v1) (1) to appear; to come in sight; to become visible; to come out; to embody; to materialize; to materialise; (2) to express oneself</TD>
-<TD width="50%"><b>現す</b> [あらわす]<br>(v5s) to show; to indicate; to display</TD>
-</TR>
-<TR>
-<TD width="50%"><b>零れる</b> [こぼれる]<br>(v1,vi) to overflow; to spill</TD>
-<TD width="50%"><b>零す</b> [こぼす]<br>(v5s,vt) to spill</TD>
-</TR>
-<TR>
-<TD width="50%"><b>流れる</b> [ながれる]<br>(v1) to stream; to flow (liquid, time, etc.); to run (ink); to be washed away</TD>
-<TD width="50%"><b>流す</b> [ながす]<br>(v5s) to drain; to float; to shed (blood, tears); to cruise (e.g. taxi)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>解れる</b> [ほぐれる]<br>(v1) to come untied; to come apart</TD>
-<TD width="50%"><b>解ぐす</b> [ほぐす]<br>(v5s) to unfasten</TD>
-</TR>
-<TR>
-<TD width="50%"><b>穢れる</b> [けがれる]<br>(v1) to get dirty; to become dirty</TD>
-<TD width="50%"><b>穢す</b> [けがす]<br>(v5s) (1) to disgrace; to dishonour; to dishonor; (2) to pollute; to contaminate; to soil; to make dirty; to stain</TD>
-</TR>
-<TR>
-<TD width="50%"><b>逃れる</b> [のがれる]<br>(v1) to escape</TD>
-<TD width="50%"><b>逃す</b> [のがす]<br>(v5s) to let loose; to set free; to let escape</TD>
-</TR>
-<TR>
-<TD width="50%"><b>乱れる</b> [みだれる]<br>(v1) to get confused; to be disordered; to be disturbed</TD>
-<TD width="50%"><b>乱す</b> [みだす]<br>(v5s) to throw out of order; to disarrange; to disturb</TD>
-</TR>
-<TR>
-<TD width="50%"><b>潰れる</b> [つぶれる]<br>(v1) to be smashed; to go bankrupt</TD>
-<TD width="50%"><b>潰す</b> [つぶす]<br>(v5s) to smash; to waste</TD>
-</TR>
-<TR>
-<TD width="50%"><b>乾く</b> [かわく]<br>(v5k,vi) to get dry</TD>
-<TD width="50%"><b>乾かす</b> [かわかす]<br>(v5s,vt) to dry (clothes, etc.); to desiccate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>驚く</b> [おどろく]<br>(v5k) to be surprised; to be astonished</TD>
-<TD width="50%"><b>驚かす</b> [おどろかす]<br>(v5s) to surprise; to frighten; to create a stir</TD>
-</TR>
-<TR>
-<TD width="50%"><b>照る</b> [てる]<br>(v5r,vi) to shine</TD>
-<TD width="50%"><b>照らす</b> [てらす]<br>(v5s) to shine on; to illuminate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>凝る</b> [こる]<br>(v5r) to grow stiff; to be absorbed in; to be devoted to; to be a fanatic; to elaborate</TD>
-<TD width="50%"><b>凝らす</b> [こらす]<br>(v5s) to concentrate; to devote; to apply; to strain; to rack</TD>
-</TR>
-<TR>
-<TD width="50%"><b>減る</b> [へる]<br>(v5r,vi) to decrease (in size or number); to diminish; to abate</TD>
-<TD width="50%"><b>減らす</b> [へらす]<br>(v5s,vt) to abate; to decrease; to diminish; to shorten</TD>
-</TR>
-<TR>
-<TD width="50%"><b>交う</b> [かう]<br>(v5u) to take turns; to mingle together</TD>
-<TD width="50%"><b>交わす</b> [かわす]<br>(v5s) to exchange (messages); to dodge; to parry; to avoid; to turn aside</TD>
-</TR>
-<TR>
-<TD width="50%"><b>飛ぶ</b> [とぶ]<br>(v5b) to jump; to fly; to leap; to spring; to bound; to hop</TD>
-<TD width="50%"><b>飛ばす</b> [とばす]<br>(v5s) to skip over; to omit</TD>
-</TR>
-<TR>
-<TD width="50%"><b>動く</b> [うごく]<br>(v5k,vi) to move; to stir; to shift; to shake; to swing; to operate; to run; to go; to work; to be touched; to be influenced; to waver; to fluctuate; to vary; to change; to be transferred</TD>
-<TD width="50%"><b>動かす</b> [うごかす]<br>(v5s,vt) to move; to shift; to set in motion; to operate; to inspire; to rouse; to influence; to mobilize; to mobilise; to deny; to change</TD>
-</TR>
-<TR>
-<TD width="50%"><b>凝る</b> [こごる]<br>(v5r) to congeal; to freeze</TD>
-<TD width="50%"><b>凝らす</b> [こごらす]<br>(v5s,vt) to freeze; to congeal</TD>
-</TR>
-<TR>
-<TD width="50%"><b>燻ぶる</b> [いぶる]<br>(v5r) to smoke; to smoulder; to smolder; to sputter</TD>
-<TD width="50%"><b>燻す</b> [いぶす]<br>(v5s,vt) (1) to smoke (something); to fumigate; (2) to oxidize; to oxidise</TD>
-</TR>
-<TR>
-<TD width="50%"><b>転がる</b> [ころがる]<br>(v5r) to roll; to tumble</TD>
-<TD width="50%"><b>転がす</b> [ころがす]<br>(v5s,vt) to roll</TD>
-</TR>
-<TR>
-<TD width="50%"><b>舞う</b> [まう]<br>(v5u,vi) to dance; to flutter about; to revolve<br><b>回る</b> [まわる]<br>(v5r) (1) to turn; to revolve; (2) to visit several places</TD>
-<TD width="50%"><b>回す</b> [まわす]<br>(v5s) to turn; to revolve</TD>
-</TR>
-<TR>
-<TD width="50%"><b>沸く</b> [わく]<br>(v5k) to boil; to grow hot; to get excited; to gush forth</TD>
-<TD width="50%"><b>沸かす</b> [わかす]<br>(v5s,vt) to boil; to heat</TD>
-</TR>
-<TR>
-<TD width="50%"><b>鳴る</b> [なる]<br>(v5r) to sound; to ring; to resound; to echo; to roar; to rumble</TD>
-<TD width="50%"><b>鳴らす</b> [ならす]<br>(v5s,vt) to ring; to sound; to chime; to beat; to snort (nose)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>脱ぐ</b> [ぬぐ]<br>(v5g) to take off (clothes, shoes, etc.); to undress</TD>
-<TD width="50%"><b>脱がす</b> [ぬがす]<br>(v5s) to strip someone; to help someone remove (clothes)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>浮く</b> [うく]<br>(v5k) to float; to become merry; to become loose</TD>
-<TD width="50%"><b>浮かす</b> [うかす]<br>(v5s) to raise; to rise</TD>
-</TR>
-<TR>
-<TD width="50%"><b>及ぶ</b> [およぶ]<br>(v5b) to reach; to come up to; to amount to; to befall; to happen to; to extend; to match; to equal</TD>
-<TD width="50%"><b>及ぼす</b> [およぼす]<br>(v5s) to exert; to cause; to exercise</TD>
-</TR>
-<TR>
-<TD width="50%"><b>遊ぶ</b> [あそぶ]<br>(v5b) (1) to play; to make a visit (esp. for pleasure); (2) to be idle; to do nothing</TD>
-<TD width="50%"><b>遊ばす</b> [あそばす]<br>(v5s) to let one play; to leave idle; to do (polite)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>散る</b> [ちる]<br>(v5r) to fall; to scatter (e.g. blossoms)</TD>
-<TD width="50%"><b>散らす</b> [ちらす]<br>(v5s) to scatter; to disperse; to distribute</TD>
-</TR>
-<TR>
-<TD width="50%"><b>曇る</b> [くもる]<br>(v5r) to become cloudy; to become dim</TD>
-<TD width="50%"><b>曇らす</b> [くもらす]<br>(v5s) to encloud; to make dim or dull; to frown</TD>
-</TR>
-<TR>
-<TD width="50%"><b>反る</b> [そる]<br>(v5r) (1) to warp; to be warped; to curve; to be curved; to be arched; (2) to bend (backward)</TD>
-<TD width="50%"><b>反らす</b> [そらす]<br>(v5s,vt) to bend; to warp; to curve</TD>
-</TR>
-<TR>
-<TD width="50%"><b>尽くす</b> [つくす]<br>(v5s) (1) to exhaust; to run out; (2) to devote; to serve (a person); to befriend</TD>
-<TD width="50%"><b>尽かす</b> [つかす]<br>(v5s) to be disgusted with; to give up on</TD>
-</TR>
-<TR>
-<TD width="50%"><b>成る</b> [なる]<br>(v5r) (uk) to become</TD>
-<TD width="50%"><b>成す</b> [なす]<br>(v5s) to perform; to accomplish</TD>
-</TR>
-<TR>
-<TD width="50%"><b>通る</b> [とおる]<br>(v5r) to pass (by); to go through; to walk along; to pass exams</TD>
-<TD width="50%"><b>通す</b> [とおす]<br>(v5s) to let pass; to overlook; to continue; to keep; to make way for; to persist in</TD>
-</TR>
-<TR>
-<TD width="50%"><b>直る,治る</b> [なおる]<br>(v5r,vi) (1) to be cured; to get well; to be healed; (2) to get mended; to be repaired; to be fixed</TD>
-<TD width="50%"><b>直す,治す</b> [なおす]<br>(v5s,vt) (1) to cure; to heal; (2) to fix; to correct; to repair</TD>
-</TR>
-<TR>
-<TD width="50%"><b>返る</b> [かえる]<br>(v5r) to return; to come back; to go back</TD>
-<TD width="50%"><b>返す</b> [かえす]<br>(v5s,vt) to return something</TD>
-</TR>
-<TR>
-<TD width="50%"><b>帰る</b> [かえる]<br>(v5r) to go back; to go home; to come home; to return</TD>
-<TD width="50%"><b>帰す,還す</b> [かえす]<br>(v5s) to send back</TD>
-</TR>
-<TR>
-<TD width="50%"><b>残る</b> [のこる]<br>(v5r) to remain; to be left</TD>
-<TD width="50%"><b>残す</b> [のこす]<br>(v5s) to leave (behind, over); to bequeath; to save; to reserve</TD>
-</TR>
-<TR>
-<TD width="50%"><b>下る,降る</b> [くだる]<br>(v5r) to get down; to descend</TD>
-<TD width="50%"><b>下す,降す</b> [くだす]<br>(v5s) to lower; to let go down</TD>
-</TR>
-<TR>
-<TD width="50%"><b>来る</b> [きたる]<br>(v5r) to come; to arrive; to be due to; to be next; to be forthcoming</TD>
-<TD width="50%"><b>来す</b> [きたす]<br>(v5s) to cause; to induce; to bring about a result or state; to produce</TD>
-</TR>
-<TR>
-<TD width="50%"><b>浸る</b> [ひたる]<br>(v5r) to be soaked in; to be flooded</TD>
-<TD width="50%"><b>浸す</b> [ひたす]<br>(v5s) to soak; to dip; to drench</TD>
-</TR>
-<TR>
-<TD width="50%"><b>被る</b> [かぶる]<br>(v5r) to wear; to put on (head); to pour or dash water (on oneself)</TD>
-<TD width="50%"><b>被す</b> [かぶす]<br>(v5s) to cover (with something)<br>also <b>被せる</b> [かぶせる]</TD>
-</TR>
-<TR>
-<TD width="50%"><b>散らかる</b> [ちらかる]<br>(v5r) to be in disorder; to lie scattered around</TD>
-<TD width="50%"><b>散らかす</b> [ちらかす]<br>(v5s) to scatter around; to leave untidy</TD>
-</TR>
-<TR>
-<TD width="50%"><b>乗る</b> [のる]<br>(v5r) (1) to get on; to ride in; to board; to mount; to get up on; (2) to spread (paints); to be taken in; (3) to share in; to join; to be found in (a dictionary); to feel like doing; to be mentioned in; to be in harmony with</TD>
-<TD width="50%"><b>乗す</b> [のす]<br>(v5s) to place on (something); to take on board; to give a ride to<br>乗せる</b> [のせる]<br>(v1) to place on (something); to take on board; etc.</TD>
-</TR>
-<TR>
-<TD width="50%"><b>寄る</b> [よる]<br>(v5r) to visit; to drop in; to approach</TD>
-<TD width="50%"><b>寄す</b> [よす]<br>(v5s) (arch) to bring near; to put close; to let come near</TD>
-</TR>
-<TR>
-<TD width="50%"><b>足る</b> [たる]<br>(v5r) to be sufficient; to be enough</TD>
-<TD width="50%"><b>足す</b> [たす]<br>(v5s) (1) to add (numbers); (2) to do (e.g. one's business)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>濁る</b> [にごる]<br>(v5r) to become muddy; to get impure</TD>
-<TD width="50%"><b>濁す</b> [にごす]<br>(v5s) to make muddy; to prevaricate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>戻る</b> [もどる]<br>(v5r) to turn back; to return</TD>
-<TD width="50%"><b>戻す</b> [もどす]<br>(v5s) to restore; to put back; to return</TD>
-</TR>
-<TR>
-<TD width="50%"><b>借る</b> [かる]<br>(v5r) to borrow; to have a loan; to hire; to rent; to buy on credit</TD>
-<TD width="50%"><b>貸す</b> [かす]<br>(v5s) to lend</TD>
-</TR>
-<TR>
-<TD width="50%"><b>渡る</b> [わたる]<br>(v5r) to cross over; to go across</TD>
-<TD width="50%"><b>渡す</b> [わたす]<br>(v5s) to pass over; to hand over</TD>
-</TR>
-<TR>
-<TD width="50%"><b>移る</b> [うつる]<br>(v5r) (1) to move (house); to transfer (department); (2) to be infected; to be contagious</TD>
-<TD width="50%"><b>移す</b> [うつす]<br>(v5s) to remove; to transfer; to infect</TD>
-</TR>
-<TR>
-<TD width="50%"><b>映る</b> [うつる]<br>(v5r) to be reflected; to harmonize with; to harmonise with; to come out (photo)</TD>
-<TD width="50%"><b>映す</b> [うつす]<br>(v5s) to project; to reflect; to cast (shadow)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>写る</b> [うつる]<br>(v5r) to be photographed; to be projected</TD>
-<TD width="50%"><b>写す</b> [うつす]<br>to film; to transcribe; to duplicate; to reproduce; to trace; to describe; to picture; to photograph; to imitate</TD>
-</TR>
-<TR>
-<TD width="50%"><b>余る</b> [あまる]<br>(v5r) to remain; to be left over; to be in excess; to be too many</TD>
-<TD width="50%"><b>余す</b> [あます]<br>(v5s) to save; to leave over; to spare</TD>
-</TR>
-<TR>
-<TD width="50%"><b>過ぎる</b> [すぎる]<br>(v1,vi) to pass; to go beyond; to elapse; to exceed</TD>
-<TD width="50%"><b>過ごす</b> [すごす]<br>(v5s,vt) to pass; to spend; to go through; to tide over</TD>
-</TR>
-<TR>
-<TD width="50%"><b>無くなる</b> [なくなる]<br>(v5r) to disappear; to get lost</TD>
-<TD width="50%"><b>無くす</b> [なくす]<br>(v5s) (1) to lose something; (2) to get rid of</TD>
-</TR>
-<TR>
-<TD width="50%"><b>悩む</b> [なやむ]<br>(v5m) to be worried; to be troubled</TD>
-<TD width="50%"><b>悩ます</b> [なやます]<br>(v5s) to afflict; to torment; to harass; to molest</TD>
-</TR>
-<TR>
-<TD width="50%"><b>済む</b> [すむ]<br>(v5m) to finish; to end; to be completed</TD>
-<TD width="50%"><b>済ます</b> [すます]<br>(v5s) (1) to finish; to get it over with; to conclude; (2) to settle; to pay back; (3) to get along (without something)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>澄む,清む</b> [すむ]<br>(v5m) to clear (e.g. weather); to become transparent</TD>
-<TD width="50%"><b>澄ます,清ます</b> [すます]<br>(v5s) to clear; to make clear; to be unruffled; to look unconcerned; to look demure; to look prim; to put on airs</TD>
-</TR>
-<TR>
-<TD width="50%"><b>外れる</b> [はずれる]<br>(v1,vi) to be disconnected; to get out of place; to be off; to be out (e.g. of gear)</TD>
-<TD width="50%"><b>外す</b> [はずす]<br>(v5s) (1) to unfasten; (2) to remove; (3) to bump off (sl)</TD>
-</TR>
-<TR>
-<TD width="50%"><b>寄せる</b> [よせる]<br>(v1) (1) to come near; to let someone approach; (2) to collect; to gather; to add; to put aside</TD>
-<TD width="50%"><b>寄る</b> [よる]<br>(v5r) to visit; to drop in; to approach</TD>
+<sep><kanji>預ける<_kanji> <hiragana>あずける<_hiragana><entrans>to give into custody; to leave (a child) in the care of; to entrust; to deposit<_entrans>
+<sep><kanji>預かる<_kanji> <hiragana>あずかる<_hiragana><entrans>to keep in custody; to receive on deposit; to take charge of <_entrans>
+<pair>
+<sep><kanji>受ける<_kanji> <hiragana>うける<_hiragana><entrans>to undertake; to accept; to take (lesson, test, damage); to undergo; to experience; to catch (e.g. a ball); to become popular<_entrans>
+<sep><kanji>受かる<_kanji> <hiragana>うかる<_hiragana><entrans>to pass (examination)<_entrans>
+<pair>
+<sep><kanji>掛ける<_kanji> <hiragana>かける<_hiragana><entrans>to wear; to put on; to hang; to cover; to sit down; to make a phone call; to multiply; to turn on (a switch); to play (a record); to begin to; to pour (water)<_entrans>
+<sep><kanji>掛かる<_kanji> <hiragana>かかる<_hiragana><entrans>to take (e.g. time, money, etc); to hang<_entrans>
+<pair>
+<sep><kanji>授ける<_kanji> <hiragana>さずける<_hiragana><entrans>to grant; to award; to teach<_entrans>
+<sep><kanji>授かる<_kanji> <hiragana>さずかる<_hiragana><entrans>to be gifted; to be awarded<_entrans>
+<pair>
+<sep><kanji>挙げる<_kanji> <hiragana>あげる<_hiragana><entrans>to raise; to fly; to give (an example)<_entrans>
+<sep><kanji>挙がる<_kanji> <hiragana>あがる<_hiragana><entrans>to become prosperous; to be captured<_entrans>
+<pair>
+<sep><kanji>揚げる<_kanji> <hiragana>あげる<_hiragana><entrans>to lift; to fly<_entrans>
+<sep><kanji>揚がる<_kanji> <hiragana>あがる<_hiragana><entrans>to rise<_entrans>
+<pair>
+<sep><kanji>空ける<_kanji> <hiragana>あける<_hiragana><entrans>to empty; also 開ける<_entrans>
+<sep><kanji>空く<_kanji> <hiragana>あく<_hiragana><entrans>to open; to become open; to become empty; to be less crowded; also 開く<_entrans>
+<pair>
+<sep><kanji>片付ける<_kanji> <hiragana>かたづける<_hiragana><entrans>to tidy up; to put in order; to straighten up; to put away; to settle (problem); to clear (dispute); to finish; to bring something to an end; to marry off (e.g. a daughter); to do away with someone; to bump someone off<_entrans>
+<sep><kanji>片付く<_kanji> <hiragana>かたづく<_hiragana><entrans>to be put in order; to be put to rights; to be disposed of; to be solved; to be finished; to be married (off)<_entrans>
+<pair>
+<sep><kanji>負ける<_kanji> <hiragana>まける<_hiragana><entrans>to lose; to be defeated<_entrans>
+<sep><kanji>負かす<_kanji> <hiragana>まかす<_hiragana><entrans>to defeat<_entrans>
+<pair>
+<sep><kanji>分ける<_kanji> <hiragana>わける<_hiragana><entrans>to divide; to separate; to make distinctions; to differentiate (between)<_entrans>
+<sep><kanji>分かる<_kanji> <hiragana>わかる<_hiragana><entrans>to understand; to grasp; to know; to realize; to realise<_entrans>
+<pair>
+<sep><kanji>上げる<_kanji> <hiragana>あげる<_hiragana><entrans>to give; to raise; to elevate; to fly (kites); to praise; to increase; to advance; to promote; to vomit; to usher in; to admit; to send (to school); to offer; to present; to leave with; to finish; to arrange (expenses); to observe; to perform; to quote; to mention; to bear (a child); to improve (talents); to do up (the hair); to arrest; to engage; to fry; (rains) to stop<_entrans>
+<sep><kanji>上がる<_kanji> <hiragana>あがる<_hiragana><entrans>to enter; to go up; to rise; to climb up; to advance; to appreciate; to be promoted; to improve; to call on; to be offered; to accrue; to be finished; to go bankrupt; to be caught; to let up (rain); to weaken (as a battery); to get ruffled<_entrans>
+<pair>
+<sep><kanji>下げる<_kanji> <hiragana>さげる<_hiragana><entrans>to hang; to lower; to move back; to wear; to dismiss; to grant<_entrans>
+<sep><kanji>下がる<_kanji> <hiragana>さがる<_hiragana><entrans>to hang down; to abate; to retire; to fall; to step back<_entrans>
+<pair>
+<sep><kanji>繋げる<_kanji> <hiragana>つなげる<_hiragana><entrans>to connect; also 繋ぐ (つなぐ)<_entrans>
+<sep><kanji>繋がる<_kanji> <hiragana>つながる<_hiragana><entrans>to be tied together; to be connected to; to be related to<_entrans>
+<pair>
+<sep><kanji>広げる<_kanji> <hiragana>ひろげる<_hiragana><entrans>to spread; to extend; to expand; to enlarge; to widen; to broaden; to unfold; to open; to unroll<_entrans>
+<sep><kanji>広がる<_kanji> <hiragana>ひろがる<_hiragana><entrans>to spread (out); to extend; to stretch; to reach to; to get around<_entrans>
+<pair>
+<sep><kanji>曲げる<_kanji> <hiragana>まげる<_hiragana><entrans>to bend; to crook; to lean<_entrans>
+<sep><kanji>曲がる<_kanji> <hiragana>まがる<_hiragana><entrans>to turn; to bend<_entrans>
+<pair>
+<sep><kanji>混ぜる<_kanji> <hiragana>まぜる<_hiragana><entrans>to mix; to stir<_entrans>
+<sep><kanji>混ざる<_kanji> <hiragana>まざる<_hiragana><entrans>to be mixed; to be blended with; to associate with; to mingle with; to join<_entrans>
+<pair>
+<sep><kanji>捨てる<_kanji> <hiragana>すてる<_hiragana><entrans>to throw away; to cast aside; to abandon; to resign<_entrans>
+<sep><kanji>廃る<_kanji> <hiragana>すたる<_hiragana><entrans>to go out of use; to become obsolete; to die out; to go out of fashion<_entrans>
+<pair>
+<sep><kanji>当てる<_kanji> <hiragana>あてる<_hiragana><entrans>to hit; to expose; to apply (e.g. patch); to allot; to call on someone (e.g. in class); to guess (an answer); to make a hit (e.g. in a lottery)<_entrans>
+<sep><kanji>当たる<_kanji> <hiragana>あたる<_hiragana><entrans> to be hit; to be successful; to face (confront); to lie (in the direction of); to undertake; to treat; to be equivalent to; to apply to; to be applicable; to be assigned<_entrans>
+<pair>
+<sep><kanji>茹でる<_kanji> <hiragana>ゆでる<_hiragana><entrans> to boil<_entrans>
+<sep><kanji>茹だる<_kanji> <hiragana>うだる<_hiragana><entrans> to boil; to seethe; to be oppressed by heat<_entrans>
+<pair>
+<sep><kanji>重ねる<_kanji> <hiragana>かさねる<_hiragana><entrans> to pile up; to put something on another; to heap up; to add; to repeat<_entrans>
+<sep><kanji>重なる<_kanji> <hiragana>かさなる<_hiragana><entrans>to be piled up; lie on top of one another; overlap each other<_entrans>
+<pair>
+<sep><kanji>連ねる<_kanji> <hiragana>つらねる<_hiragana><entrans> to link; to join; to put together<_entrans>
+<sep><kanji>連なる<_kanji> <hiragana>つらなる<_hiragana><entrans> to extend; to stretch out; to stand in a row<_entrans>
+<pair>
+<sep><kanji>温める<_kanji> <hiragana>あたためる<_hiragana><entrans> to warm; to heat<_entrans>
+<sep><kanji>温まる<_kanji> <hiragana>あたたまる<_hiragana><entrans> to warm oneself; to sun oneself; to warm up; to get warm<_entrans>
+<pair>
+<sep><kanji>集める<_kanji> <hiragana>あつめる<_hiragana><entrans> to collect; to assemble<_entrans>
+<sep><kanji>集まる<_kanji> <hiragana>あつまる<_hiragana><entrans> to gather; to collect; to assemble<_entrans>
+<pair>
+<sep><kanji>改める<_kanji> <hiragana>あらためる<_hiragana><entrans> to change; to alter; to reform; to revise<_entrans>
+<sep><kanji>改まる<_kanji> <hiragana>あらたまる<_hiragana><entrans> to be renewed; to stand on ceremony; to be formal; to take a turn for the worse<_entrans>
+<pair>
+<sep><kanji>炒める<_kanji> <hiragana>いためる<_hiragana><entrans> to stir-fry<_entrans>
+<sep><kanji>炒まる<_kanji> <hiragana>いたまる<_hiragana><entrans> to be sauteed in oil<_entrans>
+<pair>
+<sep><kanji>填める<_kanji> <hiragana>うずめる<_hiragana><entrans> to bury (e.g. one's face in hands)<_entrans>
+<sep><kanji>埋まる<_kanji> <hiragana>うずまる<_hiragana><entrans> to be buried; to be surrounded; to overflow; to be filled<_entrans>
+<pair>
+<sep><kanji>埋める<_kanji> <hiragana>うずめる<_hiragana><entrans> to bury (e.g. one's face in hands)<_entrans>
+<sep><kanji>埋まる<_kanji> <hiragana>うずまる<_hiragana><entrans> to be buried; to be surrounded; to overflow; to be filled<_entrans>
+<pair>
+<sep><kanji>収める<_kanji> <hiragana>おさめる<_hiragana><entrans> to obtain; to reap; to pay; to supply; to accept<_entrans>
+<sep><kanji>収まる<_kanji> <hiragana>おさまる<_hiragana><entrans> to be in one's place; to be installed; to settle into; to be obtained; to be settled; to be paid; to be delivered<_entrans>
+<pair>
+<sep><kanji>治める<_kanji> <hiragana>おさめる<_hiragana><entrans> to govern; to manage; to subdue<_entrans>
+<sep><kanji>治まる<_kanji> <hiragana>おさまる<_hiragana><entrans> to be at peace; to clamp down; to lessen (storm, terror, anger)<_entrans>
+<pair>
+<sep><kanji>修める<_kanji> <hiragana>おさめる<_hiragana><entrans> to study; to complete (a course); to cultivate; to master; to order (one's life); to repair (a fault one has committed)<_entrans>
+<sep><kanji>修まる<_kanji> <hiragana>おさまる<_hiragana><entrans> to govern oneself; to conduct oneself well<_entrans>
+<pair>
+<sep><kanji>納める<_kanji> <hiragana>おさめる<_hiragana><entrans> to obtain; to reap; to pay; to supply; to accept<_entrans>
+<sep><kanji>納まる<_kanji> <hiragana>おさまる<_hiragana><entrans> to be in one's place; to be installed; to settle into; to be obtained; to be settled; to be paid; to be delivered<_entrans>
+<pair>
+<sep><kanji>固める<_kanji> <hiragana>かためる<_hiragana><entrans> to harden; to freeze; to fortify<_entrans>
+<sep><kanji>固まる<_kanji> <hiragana>かたまる<_hiragana><entrans> to harden; to solidify; to become firm; to become certain<_entrans>
+<pair>
+<sep><kanji>絡める<_kanji> <hiragana>からめる<_hiragana><entrans> to arrest; to entwine; to twine around; to coordinate (with)<_entrans>
+<sep><kanji>絡まる<_kanji> <hiragana>からまる<_hiragana><entrans> to be entwined; to be involved; also 絡む (からむ) to entangle; to entwine; to pick a quarrel; to be involved with<_entrans>
+<pair>
+<sep><kanji>決める<_kanji> <hiragana>きめる<_hiragana><entrans> to decide<_entrans>
+<sep><kanji>決まる<_kanji> <hiragana>きまる<_hiragana><entrans> to be decided; to be settled; to look good in (clothes)<_entrans>
+<pair>
+<sep><kanji>清める<_kanji> <hiragana>きよめる<_hiragana><entrans> to purify; to cleanse; to exorcise<_entrans>
+<sep><kanji>清まる<_kanji> <hiragana>きよまる<_hiragana><entrans> to be purified; to be cleansed<_entrans>
+<pair>
+<sep><kanji>閉める<_kanji> <hiragana>しめる<_hiragana><entrans> to close; to shut<_entrans>
+<sep><kanji>閉まる<_kanji> <hiragana>しまる<_hiragana><entrans> to close; to be closed<_entrans>
+<pair>
+<sep><kanji>窄める<_kanji> <hiragana>すぼめる<_hiragana><entrans> to make narrower; to shut (an umbrella); to shrug (one's shoulders); to purse (one's lips)<_entrans>
+<sep><kanji>窄まる<_kanji> <hiragana>すぼまる<_hiragana><entrans> to get narrower; to contract<_entrans>
+<pair>
+<sep><kanji>染める<_kanji> <hiragana>そめる<_hiragana><entrans> to dye; to colour; to color<_entrans>
+<sep><kanji>染まる<_kanji> <hiragana>そまる<_hiragana><entrans> to dye<_entrans>
+<pair>
+<sep><kanji>高める<_kanji> <hiragana>たかめる<_hiragana><entrans> to raise; to lift; to boost<_entrans>
+<sep><kanji>高まる<_kanji> <hiragana>たかまる<_hiragana><entrans> to rise; to swell; to be promoted<_entrans>
+<pair>
+<sep><kanji>定める<_kanji> <hiragana>さだめる<_hiragana><entrans> to decide; to establish; to determine<_entrans>
+<sep><kanji>定まる<_kanji> <hiragana>さだまる<_hiragana><entrans> to become settled; to be fixed<_entrans>
+<pair>
+<sep><kanji>貯める<_kanji> <hiragana>ためる<_hiragana><entrans> to save (i.e. in a bank)<_entrans>
+<sep><kanji>貯まる<_kanji> <hiragana>たまる<_hiragana><entrans> to be saved (e.g. money)<_entrans>
+<pair>
+<sep><kanji>溜める<_kanji> <hiragana>ためる<_hiragana><entrans> to amass; to accumulate<_entrans>
+<sep><kanji>溜まる<_kanji> <hiragana>たまる<_hiragana><entrans> to collect; to gather; to save<_entrans>
+<pair>
+<sep><kanji>縮める<_kanji> <hiragana>ちぢめる<_hiragana><entrans> to shorten; to reduce; to boil down; to shrink<_entrans>
+<sep><kanji>縮まる<_kanji> <hiragana>ちぢまる<_hiragana><entrans> to be shortened; to be contracted; to shrink<_entrans>
+<pair>
+<sep><kanji>勤める<_kanji> <hiragana>つとめる<_hiragana><entrans> to serve; to fill a post; to serve under; to work (for); to exert oneself; to endeavor; to endeavour; to be diligent; to play (the part of)<_entrans>
+<sep><kanji>勤まる<_kanji> <hiragana>つとまる<_hiragana><entrans> to be fit for; to be equal to; to function properly<_entrans>
+<pair>
+<sep><kanji>強める<_kanji> <hiragana>つよめる<_hiragana><entrans> to strengthen; to emphasize; to emphasise<_entrans>
+<sep><kanji>強まる<_kanji> <hiragana>つよまる<_hiragana><entrans> to get strong; to gain strength<_entrans>
+<pair>
+<sep><kanji>止める<_kanji> <hiragana>とどめる<_hiragana><entrans> to stop; to cease; to put an end to<_entrans>
+<sep><kanji>止まる<_kanji> <hiragana>とどまる<_hiragana><entrans> to remain; to abide; to stay (in the one place); to come to a halt; to stop<_entrans>
+<pair>
+<sep><kanji>始める<_kanji> <hiragana>はじめる<_hiragana><entrans> to start; to begin<_entrans>
+<sep><kanji>始まる<_kanji> <hiragana>はじまる<_hiragana><entrans> to begin<_entrans>
+<pair>
+<sep><kanji>嵌める<_kanji> <hiragana>はめる<_hiragana><entrans> to get in; to insert; to put on; to make love<_entrans>
+<sep><kanji>嵌まる<_kanji> <hiragana>はまる<_hiragana><entrans> to get into; to go into; to fit; to be fit for; to suit; to fall into; to plunge into; to be deceived; to be taken in; to fall into a trap; to be addicted to; to be deep into<_entrans>
+<pair>
+<sep><kanji>広める<_kanji> <hiragana>ひろめる<_hiragana><entrans> to broaden; to propagate<_entrans>
+<sep><kanji>広まる<_kanji> <hiragana>ひろまる<_hiragana><entrans> to spread; to be propagated<_entrans>
+<pair>
+<sep><kanji>纏める<_kanji> <hiragana>まとめる<_hiragana><entrans> to put in order; to collect; to bring to a conclusion<_entrans>
+<sep><kanji>纏まる<_kanji> <hiragana>まとまる<_hiragana><entrans> to be collected; to be settled; to be in order<_entrans>
+<pair>
+<sep><kanji>丸める<_kanji> <hiragana>まるめる<_hiragana><entrans> to make round; to round off; to roll up; to curl up; to seduce; to cajole; to explain away<_entrans>
+<sep><kanji>丸まる<_kanji> <hiragana>まるまる<_hiragana><entrans> to become rounded; to roll into a ball<_entrans>
+<pair>
+<sep><kanji>緩める<_kanji> <hiragana>ゆるめる<_hiragana><entrans> to loosen; to slow down<_entrans>
+<sep><kanji>緩まる<_kanji> <hiragana>ゆるまる<_hiragana><entrans>( to become loose; to slacken; to soften<_entrans>
+<pair>
+<sep><kanji>暖める,温める<_kanji> <hiragana>あたためる<_hiragana><entrans> to warm; to heat<_entrans>
+<sep><kanji>暖まる,温まる<_kanji> <hiragana>あたたまる<_hiragana><entrans> to warm oneself; to sun oneself; to warm up; to get warm<_entrans>
+<pair>
+<sep><kanji>泊める<_kanji> <hiragana>とめる<_hiragana><entrans> to give shelter to; to lodge<_entrans>
+<sep><kanji>泊まる<_kanji> <hiragana>とまる<_hiragana><entrans> to stay at (e.g. hotel)<_entrans>
+<pair>
+<sep><kanji>極める,窮める,究める<_kanji> <hiragana>きわめる<_hiragana><entrans> to carry to extremes; to go to the end of something; to investigate thoroughly; to master<_entrans>
+<sep><kanji>極まる,窮まる<_kanji> <hiragana>きわまる<_hiragana><entrans> to terminate; to reach an extreme; to be in a dilemma; to be at an end<_entrans>
+<pair>
+<sep><kanji>静める,鎮める<_kanji> <hiragana>しずめる<_hiragana><entrans> to appease; to suppress; to calm<_entrans>
+<sep><kanji>静まる,鎮まる<_kanji> <hiragana>しずまる<_hiragana><entrans> to quieten down; to calm down; to subside; to die down; to abate; to be suppressed<_entrans>
+<pair>
+<sep><kanji>締める<_kanji> <hiragana>しめる<_hiragana><entrans> to tie; to fasten<_entrans>
+<sep><kanji>締まる<_kanji> <hiragana>しまる<_hiragana><entrans> to be shut; to be locked; to become sober<_entrans>
+<pair>
+<sep><kanji>絞める<_kanji> <hiragana>しめる<_hiragana><entrans> to strangle; to constrict<_entrans>
+<sep><kanji>絞まる<_kanji> <hiragana>しまる<_hiragana><entrans> to be strangled; to be constricted<_entrans>
+<pair>
+<sep><kanji>狭める<_kanji> <hiragana>せばめる<_hiragana><entrans> to narrow; to reduce; to contract<_entrans>
+<sep><kanji>狭まる<_kanji> <hiragana>せばまる<_hiragana><entrans> to narrow; to contract<_entrans>
+<pair>
+<sep><kanji>助ける,輔ける,救ける,扶ける<_kanji> <hiragana>たすける<_hiragana><entrans> to help; to save; to rescue; to give relief to; to spare (life); to reinforce; to promote; to abet<_entrans>
+<sep><kanji>助かる<_kanji> <hiragana>たすかる<_hiragana><entrans> to be saved; to be rescued; to survive; to be helpful<_entrans>
+<pair>
+<sep><kanji>見付ける<_kanji> <hiragana>みつける<_hiragana><entrans> to be familiar; to discover; to find fault; to detect; to find out; to locate<_entrans>
+<sep><kanji>見付かる<_kanji> <hiragana>みつかる<_hiragana><entrans> to be found; to be discovered<_entrans>
+<pair>
+<sep><kanji>漬ける<_kanji> <hiragana>つける<_hiragana><entrans> to soak; to moisten; to pickle<_entrans>
+<sep><kanji>漬かる<_kanji> <hiragana>つかる<_hiragana><entrans> to be pickled; to be well seasoned; to be submerged; to be soaked<_entrans>
+<pair>
+<sep><kanji>植える<_kanji> <hiragana>うえる<_hiragana><entrans> to plant; to grow<_entrans>
+<sep><kanji>植わる<_kanji> <hiragana>うわる<_hiragana><entrans> to be planted<_entrans>
+<pair>
+<sep><kanji>終える<_kanji> <hiragana>おえる<_hiragana><entrans> to finish<_entrans>
+<sep><kanji>終わる<_kanji> <hiragana>おわる<_hiragana><entrans> to finish; to close<_entrans>
+<pair>
+<sep><kanji>変える<_kanji> <hiragana>かえる<_hiragana><entrans> to change; to alter; to vary; to convert; to revise; to amend<_entrans>
+<sep><kanji>変わる<_kanji> <hiragana>かわる<_hiragana><entrans> to change; to be transformed; to vary; to be revised; to be different; to move location<_entrans>
+<pair>
+<sep><kanji>換える<_kanji> <hiragana>かえる<_hiragana><entrans> to exchange; to interchange; to substitute; to replace<_entrans>
+<sep><kanji>換わる<_kanji> <hiragana>かわる<_hiragana><entrans> to take the place of; to relieve; to be substituted for; to be exchanged; to change places with; to take turns; to be replaced<_entrans>
+<pair>
+<sep><kanji>替える,代える<_kanji> <hiragana>かえる<_hiragana><entrans> to exchange; to interchange; to substitute; to replace<_entrans>
+<sep><kanji>替わる,代わる<_kanji> <hiragana>かわる<_hiragana><entrans> to take the place of; to relieve; to be substituted for; to be exchanged; to change places with; to take turns; to be replaced<_entrans>
+<pair>
+<sep><kanji>据える<_kanji> <hiragana>すえる<_hiragana><entrans> to set (table); to lay (foundation); to place (gun); to apply (moxa)<_entrans>
+<sep><kanji>座る<_kanji> <hiragana>すわる<_hiragana><entrans> to sit; to squat<_entrans>
+<pair>
+<sep><kanji>備える<_kanji> <hiragana>そなえる<_hiragana><entrans> to furnish; to provide for; to equip; to install; to have ready; to prepare for; to possess; to have; to be endowed with; to be armed with<_entrans>
+<sep><kanji>備わる<_kanji> <hiragana>そなわる<_hiragana><entrans> to be furnished with; to be endowed with; to be among; to be one of; to be possessed of<_entrans>
+<pair>
+<sep><kanji>伝える<_kanji> <hiragana>つたえる<_hiragana><entrans> to convey; to report; to transmit; to communicate; to tell; to impart; to propagate; to teach; to bequeath<_entrans>
+<sep><kanji>伝わる<_kanji> <hiragana>つたわる<_hiragana><entrans> to be handed down; to be introduced; to be transmitted; to be circulated; to go along; to walk along<_entrans>
+<pair>
+<sep><kanji>横たえる<_kanji> <hiragana>よこたえる<_hiragana><entrans> to lie down; to lay (oneself) down<_entrans>
+<sep><kanji>横たわる<_kanji> <hiragana>よこたわる<_hiragana><entrans> to lie down; to stretch out<_entrans>
+<pair>
+<sep><kanji>加える<_kanji> <hiragana>くわえる<_hiragana><entrans> to append; to sum up; to add (up); to include; to increase; to inflict<_entrans>
+<sep><kanji>加わる<_kanji> <hiragana>くわわる<_hiragana><entrans> to join in; to accede to; to increase; to gain in (influence)<_entrans>
+<pair>
+<sep><kanji>教える<_kanji> <hiragana>おしえる<_hiragana><entrans> to teach; to inform; to instruct<_entrans>
+<sep><kanji>教わる<_kanji> <hiragana>おそわる<_hiragana><entrans> to be taught<_entrans>
+<pair>
+<sep><kanji>舞う<_kanji> <hiragana>まう<_hiragana><entrans> to dance; to flutter about; to revolve<_entrans>
+<sep><kanji>回る<_kanji> <hiragana>まわる<_hiragana><entrans> to turn; to revolve; to visit several places<_entrans>
+<pair>
+<sep><kanji>刺す<_kanji> <hiragana>さす<_hiragana><entrans> to pierce; to stab; to prick; to thrust; to bite; to sting; to pin down; to stitch; to put (a runner) out; to pole (a boat); to catch (with a line); to stick<_entrans>
+<sep><kanji>刺さる<_kanji> <hiragana>ささる<_hiragana><entrans> to stick; to be stuck<_entrans>
+<pair>
+<sep><kanji>塞ぐ<_kanji> <hiragana>ふさぐ<_hiragana><entrans> to stop up; to close up; to block (up); to occupy; to fill up; to take up; to stand in another's way; to plug up; to shut up<_entrans>
+<sep><kanji>塞がる<_kanji> <hiragana>ふさがる<_hiragana><entrans> to be plugged up; to be shut up<_entrans>
+<pair>
+<sep><kanji>磨ぐ/研ぐ<_kanji> <hiragana>とぐ<_hiragana><entrans> to sharpen; to grind; to scour; to hone; to polish; to wash (rice)<_entrans>
+<sep><kanji>尖る<_kanji> <hiragana>とがる<_hiragana><entrans> to taper to a point; to become sharp; to be sour; to look displeased<_entrans>
+<pair>
+<sep><kanji>包む<_kanji> <hiragana>くるむ<_hiragana><entrans> to be engulfed in; to be enveloped by; to wrap up; to tuck in; to pack; to do up; to cover with; to dress in; to conceal<_entrans>
+<sep><kanji>包まる<_kanji> <hiragana>くるまる<_hiragana><entrans> to be wrapped up (e.g. in a blanket); to cover oneself<_entrans>
+<pair>
+<sep><kanji>込める<_kanji> <hiragana>こめる<_hiragana><entrans> to include; to put into<_entrans>
+<sep><kanji>籠もる<_kanji> <hiragana>こもる<_hiragana><entrans> to seclude oneself; to be confined in; to be implied; to be stuffy<_entrans>
+<pair>
+<sep><kanji>折る<_kanji> <hiragana>おる<_hiragana><entrans> to break; to fold; to pick flower<_entrans>
+<sep><kanji>折れる<_kanji> <hiragana>おれる<_hiragana><entrans> to break; to be folded; to give in; to turn (a corner)<_entrans>
+<pair>
+<sep><kanji>切る<_kanji> <hiragana>きる<_hiragana><entrans> to cut; to chop; to hash; to carve; to saw; to clip; to shear; to slice; to strip; to fell; to cut down; to punch; to sever (connections); to pause; to break off; to disconnect; to turn off; to hang up; to cross (a street); to discount; to sell below cost; to shake (water) off; to finish; to be through; to complete<_entrans>
+<sep><kanji>切れる<_kanji> <hiragana>きれる<_hiragana><entrans> to cut well; to be sharp; to break (off); to snap; to wear out; to be injured; to burst; to collapse; to be disconnected; to be out of; to expire; to sever (connections) with; to be shrewd; to have a sharp mind<_entrans>
+<pair>
+<sep><kanji>破る<_kanji> <hiragana>やぶる<_hiragana><entrans> to tear; to violate; to defeat; to smash; to destroy<_entrans>
+<sep><kanji>破れる<_kanji> <hiragana>やぶれる<_hiragana><entrans> to get torn; to wear out<_entrans>
+<pair>
+<sep><kanji>割る<_kanji> <hiragana>わる<_hiragana><entrans> to divide; to cut; to break; to halve; to separate; to split; to rip; to crack; to smash; to dilute<_entrans>
+<sep><kanji>割れる<_kanji> <hiragana>われる<_hiragana><entrans> to break; to split; to cleave; to fissure; to be smashed; to crack; to be torn<_entrans>
+<pair>
+<sep><kanji>削る<_kanji> <hiragana>けずる<_hiragana><entrans> to shave (wood or leather); to sharpen; to plane; to whittle; to pare; to scrape off; to cross out; to reduce; to curtail; to remove; to erase<_entrans>
+<sep><kanji>削れる<_kanji> <hiragana>けずれる<_hiragana><entrans> to be shaved or planed<_entrans>
+<pair>
+<sep><kanji>擦る<_kanji> <hiragana>かする<_hiragana><entrans> to touch lightly; to take a percentage (from)<_entrans>
+<sep><kanji>擦れる<_kanji> <hiragana>すれる<_hiragana><entrans> to rub; to chafe; to wear; to become sophisticated<_entrans>
+<pair>
+<sep><kanji>解く<_kanji> <hiragana>ほどく<_hiragana><entrans> to unfasten<_entrans>
+<sep><kanji>解ける<_kanji> <hiragana>ほどける<_hiragana><entrans> to come untied; to come apart<_entrans>
+<pair>
+<sep><kanji>解く<_kanji> <hiragana>とく<_hiragana><entrans> to solve; to answer; to untie<_entrans>
+<sep><kanji>解ける<_kanji> <hiragana>とける<_hiragana><entrans> to loosen; to come untied; to be solved; to be removed; to be cleared<_entrans>
+<pair>
+<sep><kanji>取る<_kanji> <hiragana>とる<_hiragana><entrans> to take; to pick up; to harvest; to earn; to choose<_entrans>
+<sep><kanji>取れる<_kanji> <hiragana>とれる<_hiragana><entrans> to come off; to be taken off; to be removed; to be obtained; to leave; to come out (e.g. photo); to be interpreted<_entrans>
+<pair>
+<sep><kanji>撚る<_kanji> <hiragana>よる<_hiragana><entrans> to twist (yarn); to lay (rope)<_entrans>
+<sep><kanji>縒れる<_kanji> <hiragana>よれる<_hiragana><entrans> to get twisted; to get kinked<_entrans>
+<pair>
+<sep><kanji>捻る (捻じる) <_kanji> <hiragana>ねじる<_hiragana><entrans> to screw; to twist; to distort; to torture; to wrest<_entrans>
+<sep><kanji>捻れる<_kanji> <hiragana>ねじれる<_hiragana><entrans> to twist; to wrench; to screw<_entrans>
+<pair>
+<sep><kanji>釣る<_kanji> <hiragana>つる<_hiragana><entrans> to fish<_entrans>
+<sep><kanji>釣れる<_kanji> <hiragana>つれる<_hiragana><entrans> to be fished<_entrans>
+<pair>
+<sep><kanji>抜く<_kanji> <hiragana>ぬく<_hiragana><entrans> to extract; to omit; to surpass; to overtake; to draw out; to unplug; (suf) to do something to the end<_entrans>
+<sep><kanji>抜ける<_kanji> <hiragana>ぬける<_hiragana><entrans> to come out; to fall out; to be omitted; to be missing; to escape<_entrans>
+<pair>
+<sep><kanji>裂く<_kanji> <hiragana>さく<_hiragana><entrans> to tear; to split<_entrans>
+<sep><kanji>裂ける<_kanji> <hiragana>さける<_hiragana><entrans> to split; to tear; to burst<_entrans>
+<pair>
+<sep><kanji>割く<_kanji> <hiragana>さく<_hiragana><entrans> to cut up; to separate; to spare (e.g. time); to cleave; to sever; to divide; to cede; to alienate<_entrans>
+<sep><kanji>割ける<_kanji> <hiragana>さける<_hiragana><entrans> to be separated; to be divided<_entrans>
+<pair>
+<sep><kanji>使う<_kanji> <hiragana>つかう<_hiragana><entrans> to use; to handle; to manipulate; to employ; to need; to want; to spend; to consume; to speak (English); to practise (fencing); to practice (fencing); to take (one's lunch); to circulate (bad money)<_entrans>
+<sep><kanji>仕える<_kanji> <hiragana>つかえる<_hiragana><entrans> to serve; to work for<_entrans>
+<pair>
+<sep><kanji>焼く<_kanji> <hiragana>やく<_hiragana><entrans> to bake; to grill<_entrans>
+<sep><kanji>焼ける<_kanji> <hiragana>やける<_hiragana><entrans> to burn; to be roasted; to be sunburnt<_entrans>
+<pair>
+<sep><kanji>張る<_kanji> <hiragana>はる<_hiragana><entrans> to stick; to paste; to put; to affix; to stretch; to spread; to strain; to stick out; to slap; to be expensive; to tighten<_entrans>
+<sep><kanji>腫れる<_kanji> <hiragana>はれる<_hiragana><entrans> to swell (from inflammation); to become swollen<_entrans>
+<pair>
+<sep><kanji>思う<_kanji> <hiragana>おもう<_hiragana><entrans> to think; to feel<_entrans>
+<sep><kanji>思える<_kanji> <hiragana>おもえる<_hiragana><entrans> to seem; to appear likely<_entrans>
+<pair>
+<sep><kanji>知る<_kanji> <hiragana>しる<_hiragana><entrans> to know; to understand; to be acquainted with; to feel<_entrans>
+<sep><kanji>知れる<_kanji> <hiragana>しれる<_hiragana><entrans> to become known; to come to light; to be discovered<_entrans>
+<pair>
+<sep><kanji>砕く<_kanji> <hiragana>くだく<_hiragana><entrans> to break; to smash<_entrans>
+<sep><kanji>砕ける<_kanji> <hiragana>くだける<_hiragana><entrans> to break; to be broken<_entrans>
+<pair>
+<sep><kanji>欠く<_kanji> <hiragana>かく<_hiragana><entrans> to lack; to break; to crack; to chip<_entrans>
+<sep><kanji>欠ける<_kanji> <hiragana>かける<_hiragana><entrans> to be lacking<_entrans>
+<pair>
+<sep><kanji>脱ぐ<_kanji> <hiragana>ぬぐ<_hiragana><entrans> to take off (clothes, shoes, etc.); to undress<_entrans>
+<sep><kanji>脱げる<_kanji> <hiragana>ぬげる<_hiragana><entrans> to come off; to slip down; to slip off<_entrans>
+<pair>
+<sep><kanji>売る<_kanji> <hiragana>うる<_hiragana><entrans> to sell<_entrans>
+<sep><kanji>売れる<_kanji> <hiragana>うれる<_hiragana><entrans> to be sold<_entrans>
+<pair>
+<sep><kanji>弾く<_kanji> <hiragana>はじく<_hiragana><entrans> to flip; to snap<_entrans>
+<sep><kanji>弾ける<_kanji> <hiragana>はじける<_hiragana><entrans> to burst open; to split open; to pop<_entrans>
+<pair>
+<sep><kanji>捲る<_kanji> <hiragana>まくる<_hiragana><entrans> to turn up; to roll up (e.g. sleeves); verb suffix to indicate reckless abandon to the activity<_entrans>
+<sep><kanji>捲れる<_kanji> <hiragana>まくれる<_hiragana><entrans> to be (get) turned up (inside out)<_entrans>
+<pair>
+<sep><kanji>捲る<_kanji> <hiragana>めくる<_hiragana><entrans> to turn over; to turn pages of a book; to tear off; to strip off<_entrans>
+<sep><kanji>捲れる<_kanji> <hiragana>まくれる<_hiragana><entrans> to be (get) turned up (inside out)<_entrans>
+<pair>
+<sep><kanji>分ける<_kanji> <hiragana>わける<_hiragana><entrans> to divide; to separate; to make distinctions; to differentiate (between)<_entrans>
+<sep><kanji>分かれる<_kanji> <hiragana>わかれる<_hiragana><entrans> to branch off; to diverge from; to fork; to split; to dispense; to scatter; to divide into<_entrans>
+<pair>
+<sep><kanji>聞く<_kanji> <hiragana>きく<_hiragana><entrans> to hear; to listen; to ask<_entrans>
+<sep><kanji>聞こえる<_kanji> <hiragana>きこえる<_hiragana><entrans> to be heard; to be audible; to be said to be; to be reputed<_entrans>
+<pair>
+<sep><kanji>見る<_kanji> <hiragana>みる<_hiragana><entrans> to see; to watch; (as an auxiliary verb) to try<_entrans>
+<sep><kanji>見える<_kanji> <hiragana>みえる<_hiragana><entrans> to be seen; to be in sight; to look; to seem; to appear<_entrans>
+<pair>
+<sep><kanji>煮る<_kanji> <hiragana>にる<_hiragana><entrans> to boil; to cook<_entrans>
+<sep><kanji>煮える<_kanji> <hiragana>にえる<_hiragana><entrans> to boil; to cook; to be cooked<_entrans>
+<pair>
+<sep><kanji>炊く<_kanji> <hiragana>たく<_hiragana><entrans> to boil; to cook<_entrans>
+<sep><kanji>炊ける<_kanji> <hiragana>たける<_hiragana><entrans> to be boiled; to be cooked; to be done; to be ready<_entrans>
+<pair>
+<sep><kanji>刳る<_kanji> <hiragana>えぐる<_hiragana><entrans> to gouge; to hollow out; to bore; to excavate; to scoop out<_entrans>
+<sep><kanji>刳れる<_kanji> <hiragana>えぐれる<_hiragana><entrans> to be gouged; to be hollowed<_entrans>
+<pair>
+<sep><kanji>振るう<_kanji> <hiragana>ふるう<_hiragana><entrans> to flourish; to prosper; to thrive<_entrans>
+<sep><kanji>震える<_kanji> <hiragana>ふるえる<_hiragana><entrans> to shiver; to shake; to quake<_entrans>
+<pair>
+<sep><kanji>和える<_kanji> <hiragana>あえる<_hiragana><entrans> to dress vegetables (salad)<_entrans>
+<sep><kanji>合う<_kanji> <hiragana>あう<_hiragana><entrans> to fit; to suit; to agree with; to match; to be correct; to be profitable<_entrans>
+<pair>
+<sep><kanji>赤らめる<_kanji> <hiragana>あからめる<_hiragana><entrans> to blush; to redden<_entrans>
+<sep><kanji>赤らむ<_kanji> <hiragana>あからむ<_hiragana><entrans> to become red; to redden; to blush<_entrans>
+<pair>
+<sep><kanji>傷める<_kanji> <hiragana>いためる<_hiragana><entrans> to damage; to impair; to spoil<_entrans>
+<sep><kanji>傷む<_kanji> <hiragana>いたむ<_hiragana><entrans> to be damaged; to go bad<_entrans>
+<pair>
+<sep><kanji>痛める<_kanji> <hiragana>いためる<_hiragana><entrans> to hurt; to injure; to cause pain; to worry; to bother; to afflict; to be grieved over<_entrans>
+<sep><kanji>痛む<_kanji> <hiragana>いたむ<_hiragana><entrans> to hurt; to feel a pain; to be injured<_entrans>
+<pair>
+<sep><kanji>開ける<_kanji> <hiragana>あける<_hiragana><entrans> to open<_entrans>
+<sep><kanji>開く<_kanji> <hiragana>あく<_hiragana><entrans> to open; to become open; to become empty<_entrans>
+<pair>
+<sep><kanji>点ける<_kanji> <hiragana>つける<_hiragana><entrans> to turn on; to switch on; to light up<_entrans>
+<sep><kanji>点く<_kanji> <hiragana>つく<_hiragana><entrans> to catch fire; to be lit, e.g. electricity comes on; to be lighted<_entrans>
+<pair>
+<sep><kanji>痛める<_kanji> <hiragana>いためる<_hiragana><entrans> to hurt; to injure; to cause pain; to worry; to bother; to afflict; to be grieved over<_entrans>
+<sep><kanji>痛む<_kanji> <hiragana>いたむ<_hiragana><entrans> to hurt; to feel a pain; to be injured<_entrans>
+<pair>
+<sep><kanji>入れる<_kanji> <hiragana>いれる<_hiragana><entrans> to put in; to take in; to bring in; to let in; to admit; to introduce; to commit (to prison); to usher in; to insert; to set (jewels); to employ; to listen to; to tolerate; to comprehend; to include; to pay (interest); to cast (votes)<_entrans>
+<sep><kanji>入る<_kanji> <hiragana>いる<_hiragana><entrans> to get in; to go in; to come in; to flow into; to set; to set in<_entrans>
+<pair>
+<sep><kanji>浮かべる<_kanji> <hiragana>うかべる<_hiragana><entrans> to float; to express; to look (sad, glad)<_entrans>
+<sep><kanji>浮かぶ<_kanji> <hiragana>うかぶ<_hiragana><entrans> to float; to rise to surface; to come to mind<_entrans>
+<pair>
+<sep><kanji>換える<_kanji> <hiragana>かえる<_hiragana><entrans> to exchange; to interchange; to substitute; to replace<_entrans>
+<sep><kanji>交う<_kanji> <hiragana>かう<_hiragana><entrans> to take turns; to mingle together<_entrans>
+<pair>
+<sep><kanji>絡める<_kanji> <hiragana>からめる<_hiragana><entrans> to arrest; to entwine; to twine around; to coordinate (with)<_entrans>
+<sep><kanji>絡む<_kanji> <hiragana>からむ<_hiragana><entrans> to entangle; to entwine; to pick a quarrel; to be involved with<_entrans>
+<pair>
+<sep><kanji>込める<_kanji> <hiragana>こめる<_hiragana><entrans> to include; to put into<_entrans>
+<sep><kanji>込む<_kanji> <hiragana>こむ<_hiragana><entrans> to be crowded; to go inside (usu. only when used in compound verbs)<_entrans>
+<pair>
+<sep><kanji>沈める<_kanji> <hiragana>しずめる<_hiragana><entrans> to sink; to submerge<_entrans>
+<sep><kanji>沈む<_kanji> <hiragana>しずむ<_hiragana><entrans> to sink; to feel depressed<_entrans>
+<pair>
+<sep><kanji>従える<_kanji> <hiragana>したがえる<_hiragana><entrans> to be accompanied by; to subdue<_entrans>
+<sep><kanji>従う<_kanji> <hiragana>したがう<_hiragana><entrans> to abide (by the rules); to obey; to follow; to accompany<_entrans>
+<pair>
+<sep><kanji>退ける<_kanji> <hiragana>しりぞける<_hiragana><entrans> to repel; to drive away; to repulse; to reject<_entrans>
+<sep><kanji>退く<_kanji> <hiragana>しりぞく<_hiragana><entrans> to retreat; to recede; to withdraw; to retire<_entrans>
+<pair>
+<sep><kanji>進める<_kanji> <hiragana>すすめる<_hiragana><entrans> to advance; to promote; to hasten<_entrans>
+<sep><kanji>進む<_kanji> <hiragana>すすむ<_hiragana><entrans> to make progress; to advance; to improve<_entrans>
+<pair>
+<sep><kanji>窄める<_kanji> <hiragana>すぼめる<_hiragana><entrans> to make narrower; to shut (an umbrella); to shrug (one's shoulders); to purse (one's lips)<_entrans>
+<sep><kanji>窄む<_kanji> <hiragana>すぼむ<_hiragana><entrans> to get narrower; to contract<_entrans>
+<pair>
+<sep><kanji>育てる<_kanji> <hiragana>そだてる<_hiragana><entrans> to raise; to rear; to bring up<_entrans>
+<sep><kanji>育つ<_kanji> <hiragana>そだつ<_hiragana><entrans> to be raised (e.g. child); to be brought up; to grow (up)<_entrans>
+<pair>
+<sep><kanji>建てる<_kanji> <hiragana>たてる<_hiragana><entrans> to build; to construc<_entrans>
+<sep><kanji>建つ<_kanji> <hiragana>たつ<_hiragana><entrans> to erect; to be erected; to be built<_entrans>
+<pair>
+<sep><kanji>背ける<_kanji> <hiragana>そむける<_hiragana><entrans> to turn one's face away; to avert one's eyes<_entrans>
+<sep><kanji>背く<_kanji> <hiragana>そむく<_hiragana><entrans> to run counter to; to go against; to disobey; to infringe<_entrans>
+<pair>
+<sep><kanji>揃える<_kanji> <hiragana>そろえる<_hiragana><entrans> to put things in order; to arrange; to make uniform; to get something ready<_entrans>
+<sep><kanji>揃う<_kanji> <hiragana>そろう<_hiragana><entrans> to become complete; to be equal; to be all present; to gather<_entrans>
+<pair>
+<sep><kanji>揃える<_kanji> <hiragana>そろえる<_hiragana><entrans> to put things in order; to arrange; to make uniform; to get something ready<_entrans>
+<sep><kanji>揃う<_kanji> <hiragana>そろう<_hiragana><entrans> to become complete; to be equal; to be all present; to gather<_entrans>
+<pair>
+<sep><kanji>平らげる<_kanji> <hiragana>たいらげる<_hiragana><entrans> to subjugate; to put down (trouble); to consume (food); to eat up<_entrans>
+<sep><kanji>平らぐ<_kanji> <hiragana>たいらぐ<_hiragana><entrans> to be suppressed<_entrans>
+<pair>
+<sep><kanji>立てる<_kanji> <hiragana>たてる<_hiragana><entrans> to stand (something) up; to erect (something)<_entrans>
+<sep><kanji>立つ<_kanji> <hiragana>たつ<_hiragana><entrans> to stand<_entrans>
+<pair>
+<sep><kanji>縮める<_kanji> <hiragana>ちぢめる<_hiragana><entrans> to shorten; to reduce; to boil down; to shrink<_entrans>
+<sep><kanji>縮む<_kanji> <hiragana>ちぢむ<_hiragana><entrans> to shrink; to be contracted<_entrans>
+<pair>
+<sep><kanji>付ける<_kanji> <hiragana>つける<_hiragana><entrans> to attach; to join; to add; to append; to affix; to stick; to glue; to fasten; to sew on; to apply (ointment); to furnish (a house with); to wear; to put on; to keep a diary; to make an entry; to appraise; to set (a price); to bring alongside; to place (under guard or doctor); to follow; to shadow; to load; to give (courage to); to keep (an eye on); to establish (relations or understanding)<_entrans>
+<sep><kanji>付く<_kanji> <hiragana>つく<_hiragana><entrans> to adjoin; to be attached; to adhere; to be connected with; to be dyed; to be stained; to be scarred; to be recorded; to start (fires); to follow; to become allied to; to accompany; to study with; to increase; to be added to<_entrans>
+<pair>
+<sep><kanji>続ける<_kanji> <hiragana>つづける<_hiragana><entrans> to continue; to keep up; to keep on<_entrans>
+<sep><kanji>続く<_kanji> <hiragana>つづく<_hiragana><entrans> to be continued<_entrans>
+<pair>
+<sep><kanji>退ける<_kanji> <hiragana>どける<_hiragana><entrans> to remove; to take away; to dislodge; to put something out of the way<_entrans>
+<sep><kanji>退く<_kanji> <hiragana>どく<_hiragana><entrans> to retreat; to recede; to withdraw<_entrans>
+<pair>
+<sep><kanji>届ける<_kanji> <hiragana>とどける<_hiragana><entrans> to deliver; to forward; to send; to report; to file notice (to the authorities)<_entrans>
+<sep><kanji>届く<_kanji> <hiragana>とどく<_hiragana><entrans> to reach<_entrans>
+<pair>
+<sep><kanji>整える<_kanji> <hiragana>ととのえる<_hiragana><entrans> to put in order; to arrange; to adjust; to get ready; to prepare; to raise money<_entrans>
+<sep><kanji>整う<_kanji> <hiragana>ととのう<_hiragana><entrans> to be prepared; to be in order; to be put in order; to be arranged<_entrans>
+<pair>
+<sep><kanji>間違える<_kanji> <hiragana>まちがえる<_hiragana><entrans> to err; to make a mistake<_entrans>
+<sep><kanji>間違う<_kanji> <hiragana>まちがう<_hiragana><entrans> to make a mistake; to be incorrect; to be mistaken<_entrans>
+<pair>
+<sep><kanji>温める<_kanji> <hiragana>ぬるめる<_hiragana><entrans> to cool something down (e.g. by adding water)<_entrans>
+<sep><kanji>温む<_kanji> <hiragana>ぬるむ<_hiragana><entrans> to cool off; to become tepid<_entrans>
+<pair>
+<sep><kanji>退ける<_kanji> <hiragana>のける<_hiragana><entrans> to remove; to take away; to dislodge; to put something out of the way<_entrans>
+<sep><kanji>退く<_kanji> <hiragana>のく<_hiragana><entrans> to retreat; to recede; to withdraw<_entrans>
+<pair>
+<sep><kanji>向ける<_kanji> <hiragana>むける<_hiragana><entrans> to turn towards; to point<_entrans>
+<sep><kanji>向く<_kanji> <hiragana>むく<_hiragana><entrans> to face; to turn toward; to be suited to; to be fit for; 向かう (むかう); to face; to go towards<_entrans>
+<pair>
+<sep><kanji>止める<_kanji> <hiragana>やめる<_hiragana><entrans> to end; to stop; to cease; to resign<_entrans>
+<sep><kanji>止む<_kanji> <hiragana>やむ<_hiragana><entrans> to cease; to stop; to be over<_entrans>
+<pair>
+<sep><kanji>苦しめる<_kanji> <hiragana>くるしめる<_hiragana><entrans> to torment; to harass; to inflict pain<_entrans>
+<sep><kanji>苦しむ<_kanji> <hiragana>くるしむ<_hiragana><entrans> to suffer; to groan; to be worried<_entrans>
+<pair>
+<sep><kanji>和らげる<_kanji> <hiragana>やわらげる<_hiragana><entrans> to soften; to moderate; to relieve<_entrans>
+<sep><kanji>和らぐ<_kanji> <hiragana>やわらぐ<_hiragana><entrans> to soften; to calm down; to be mitigated<_entrans>
+<pair>
+<sep><kanji>緩める<_kanji> <hiragana>ゆるめる<_hiragana><entrans> to loosen; to slow down<_entrans>
+<sep><kanji>緩む<_kanji> <hiragana>ゆるむ<_hiragana><entrans> to become loose; to slacken<_entrans>
+<pair>
+<sep><kanji>竦める<_kanji> <hiragana>すくめる<_hiragana><entrans> to shrug (shoulders); to duck (head); to draw back (body)<_entrans>
+<sep><kanji>竦む<_kanji> <hiragana>すくむ<_hiragana><entrans> to cower; to be cramped<_entrans>
+<pair>
+<sep><kanji>並べる<_kanji> <hiragana>ならべる<_hiragana><entrans> to line up; to set up<_entrans>
+<sep><kanji>並ぶ<_kanji> <hiragana>ならぶ<_hiragana><entrans> to line up; to stand in a line<_entrans>
+<pair>
+<sep><kanji>延べる<_kanji> <hiragana>のべる<_hiragana><entrans> to make (bed); to stretch; to widen<_entrans>
+<sep><kanji>延びる<_kanji> <hiragana>のびる<_hiragana><entrans> to stretch; to extend; to lengthen; to spread; to make progress; to grow (beard, body height); to grow stale (soba); to be straightened; to be flattened; to be smoothed; to be exhausted; to be postponed; to be prolonged<_entrans>
+<pair>
+<sep><kanji>混ぜる<_kanji> <hiragana>まぜる<_hiragana><entrans> to mix; to stir<_entrans>
+<sep><kanji>混じる<_kanji> <hiragana>まじる<_hiragana><entrans> to be mixed; to be blended with; to associate with; to mingle with; to interest; to join<_entrans>
+<pair>
+<sep><kanji>出す<_kanji> <hiragana>だす<_hiragana><entrans> to take out; to get out; to put out; to submit (e.g. thesis); to turn in; to publish; to make public; to send (e.g. letter); to start (fire)<_entrans>
+<sep><kanji>出る<_kanji> <hiragana>でる<_hiragana><entrans> to appear; to come forth; to leave<_entrans>
+<pair>
+<sep><kanji>冷ます<_kanji> <hiragana>さます<_hiragana><entrans> to cool; to dampen; to let cool; to throw a damper on; to spoil<_entrans>
+<sep><kanji>冷める<_kanji> <hiragana>さめる<_hiragana><entrans> to become cool; to wear off; to abate; to subside; to dampen; to cool down (interest); to come down (fever)<_entrans>
+<pair>
+<sep><kanji>覚ます,醒ます<_kanji> <hiragana>さます<_hiragana><entrans> to awaken; to disabuse; to sober up<_entrans>
+<sep><kanji>覚める,醒める<_kanji> <hiragana>さめる<_hiragana><entrans>to wake; to wake up<_entrans>
+<pair>
+<sep><kanji>溶かす<_kanji> <hiragana>とかす<_hiragana><entrans> to melt; to dissolve<_entrans>
+<sep><kanji>溶ける<_kanji> <hiragana>とける<_hiragana><entrans> to melt; to thaw; to fuse; to dissolve<_entrans>
+<pair>
+<sep><kanji>生かす<_kanji> <hiragana>いかす<_hiragana><entrans> to revive; to resuscitate; to make use of<_entrans>
+<sep><kanji>生きる<_kanji> <hiragana>いきる<_hiragana><entrans> to live; to exist<_entrans>
+<pair>
+<sep><kanji>ふやかす<_kanji> <hiragana>ふやかす<_hiragana><entrans> to soak; to steep; to macerate<_entrans>
+<sep><kanji>潤ける<_kanji> <hiragana>ふやける<_hiragana><entrans> to become sodden; to swell up<_entrans>
+<pair>
+<sep><kanji>枯らす<_kanji> <hiragana>からす<_hiragana><entrans> to let dry; to kill (vegetation) to season (lumber)<_entrans>
+<sep><kanji>枯れる<_kanji> <hiragana>かれる<_hiragana><entrans> to wither; to die (plant); to be blasted (plant)<_entrans>
+<pair>
+<sep><kanji>明かす<_kanji> <hiragana>あかす<_hiragana><entrans> to pass; spend; to reveal; to divulge<_entrans>
+<sep><kanji>明ける<_kanji> <hiragana>あける<_hiragana><entrans> to dawn; to become daylight<_entrans>
+<pair>
+<sep><kanji>懲らす<_kanji> <hiragana>こらす<_hiragana><entrans> to chastise; to punish; to discipline<_entrans>
+<sep><kanji>懲りる<_kanji> <hiragana>こりる<_hiragana><entrans> to learn by experience; to be disgusted with<_entrans>
+<pair>
+<sep><kanji>伸ばす,延ばす<_kanji> <hiragana>のばす<_hiragana><entrans> to lengthen; to stretch; to reach out; to postpone; to prolong; to extend; to grow (beard)<_entrans>
+<sep><kanji>伸びる,延びる<_kanji> <hiragana>のびる<_hiragana><entrans> to stretch; to extend; to lengthen; to spread; to make progress; to grow (beard, body height); to grow stale (soba); to be straightened; to be flattened; to be smoothed; to be exhausted<_entrans>
+<pair>
+<sep><kanji>慣らす<_kanji> <hiragana>ならす<_hiragana><entrans> to accustom<_entrans>
+<sep><kanji>慣れる<_kanji> <hiragana>なれる<_hiragana><entrans> to grow accustomed to; to become domesticated; to become tame; to get too familiar with<_entrans>
+<pair>
+<sep><kanji>揺らす<_kanji> <hiragana>ゆらす<_hiragana><entrans> to rock; to shake; to swing<_entrans>
+<sep><kanji>揺れる<_kanji> <hiragana>ゆれる<_hiragana><entrans> to shake; to sway<_entrans>
+<pair>
+<sep><kanji>切らす<_kanji> <hiragana>きらす<_hiragana><entrans> to be out of; to run out of; to be short of; to be out of stock<_entrans>
+<sep><kanji>切れる<_kanji> <hiragana>きれる<_hiragana><entrans> to cut well; to be sharp; to break (off); to snap; to wear out; to be injured; to burst; to collapse; to be disconnected; to be out of; to expire; to sever (connections) with; to be shrewd; to have a sharp mind<_entrans>
+<pair>
+<sep><kanji>熟す<_kanji> <hiragana>こなす<_hiragana><entrans> to break to pieces; to digest; to handle easily<_entrans>
+<sep><kanji>捏ねる<_kanji> <hiragana>こねる<_hiragana><entrans> to knead; to mix with fingers<_entrans>
+<pair>
+<sep><kanji>逃がす<_kanji> <hiragana>にがす<_hiragana><entrans> to let loose; to set free; to let escape<_entrans>
+<sep><kanji>逃げる<_kanji> <hiragana>にげる<_hiragana><entrans> to escape; to run away<_entrans>
+<pair>
+<sep><kanji>漏らす<_kanji> <hiragana>もらす<_hiragana><entrans> to let leak; to reveal<_entrans>
+<sep><kanji>漏れる<_kanji> <hiragana>もれる<_hiragana><entrans> to leak out; to escape; to come through; to shine through; to filter out; to be omitted<_entrans>
+<pair>
+<sep><kanji>焦がす<_kanji> <hiragana>こがす<_hiragana><entrans> to burn; to scorch; to singe; to char<_entrans>
+<sep><kanji>焦げる<_kanji> <hiragana>こげる<_hiragana><entrans> to burn; to be burned<_entrans>
+<pair>
+<sep><kanji>焦らす<_kanji> <hiragana>じらす<_hiragana><entrans> to irritate<_entrans>
+<sep><kanji>焦れる<_kanji> <hiragana>じれる<_hiragana><entrans> to get impatient; to become irritated; to fret; to chafe<_entrans>
+<pair>
+<sep><kanji>ずらす<_kanji> <hiragana>ずらす<_hiragana><entrans> to put off; to delay<_entrans>
+<sep><kanji>滑れる<_kanji> <hiragana>ずれる<_hiragana><entrans> to slide; to slip off<_entrans>
+<pair>
+<sep><kanji>暮らす<_kanji> <hiragana>くらす<_hiragana><entrans> to live; to get along<_entrans>
+<sep><kanji>暮れる<_kanji> <hiragana>くれる<_hiragana><entrans> to get dark; to end; to come to an end; to close; to run out<_entrans>
+<pair>
+<sep><kanji>満たす<_kanji> <hiragana>みたす<_hiragana><entrans> to fill (e.g. a cup); to satisfy; to ingratiate; to fulfill<_entrans>
+<sep><kanji>満ちる<_kanji> <hiragana>みちる<_hiragana><entrans> to be full; to rise (tide); to mature; to expire<_entrans>
+<pair>
+<sep><kanji>晴らす<_kanji> <hiragana>はらす<_hiragana><entrans> to dispel; to clear away; to refresh (oneself)<_entrans>
+<sep><kanji>晴れる<_kanji> <hiragana>はれる<_hiragana><entrans> to be sunny; to clear away; to stop raining<_entrans>
+<pair>
+<sep><kanji>暈す<_kanji> <hiragana>ぼかす<_hiragana><entrans> to shade off; to obscure<_entrans>
+<sep><kanji>暈ける<_kanji> <hiragana>ぼける<_hiragana><entrans> to grow senile; to fade (colour, color)<_entrans>
+<pair>
+<sep><kanji>負かす<_kanji> <hiragana>まかす<_hiragana><entrans> to defeat<_entrans>
+<sep><kanji>負ける<_kanji> <hiragana>まける<_hiragana><entrans> to lose; to be defeated<_entrans>
+<pair>
+<sep><kanji>戯かす<_kanji> <hiragana>じゃらかす<_hiragana><entrans> to call for jokes<_entrans>
+<sep><kanji>戯れる<_kanji> <hiragana>じゃれる<_hiragana><entrans> to be playful; to gambol; to be amused (with something); to play; to sport; to frolic; to joke; to flirt with<_entrans>
+<pair>
+<sep><kanji>震わせる<_kanji> <hiragana>ふるわせる<_hiragana><entrans> to be shaking; to be trembling<_entrans>
+<sep><kanji>震える<_kanji> <hiragana>ふるえる<_hiragana><entrans> to shiver; to shake; to quake<_entrans>
+<pair>
+<sep><kanji>遅らす<_kanji> <hiragana>おくらす<_hiragana><entrans> to retard; to delay<_entrans>
+<sep><kanji>遅れる<_kanji> <hiragana>おくれる<_hiragana><entrans> to be late; to be delayed; to fall behind schedule; to be overdue<_entrans>
+<pair>
+<sep><kanji>溺らす<_kanji> <hiragana>おぼらす<_hiragana><entrans> to drown; to cause to be indulged or addicted<_entrans>
+<sep><kanji>溺れる<_kanji> <hiragana>おぼれる<_hiragana><entrans> to be drowned; to indulge in<_entrans>
+<pair>
+<sep><kanji>荒らす<_kanji> <hiragana>あらす<_hiragana><entrans> to lay waste; to devastate; to damage; to invade; to break into<_entrans>
+<sep><kanji>荒れる<_kanji> <hiragana>あれる<_hiragana><entrans> to be stormy; to be rough; to lose one's temper<_entrans>
+<pair>
+<sep><kanji>飽かす<_kanji> <hiragana>あかす<_hiragana><entrans> to glut; to satiate; to weary; to tire; to bore; to weary<_entrans>
+<sep><kanji>飽きる<_kanji> <hiragana>あきる<_hiragana><entrans> to get tired of; to lose interest in; to have enough<_entrans>
+<pair>
+<sep><kanji>冷やす<_kanji> <hiragana>ひやす<_hiragana><entrans> to cool; to refrigerate<_entrans>
+<sep><kanji>冷える<_kanji> <hiragana>ひえる<_hiragana><entrans> to grow cold; to get chilly; to cool down<_entrans>
+<pair>
+<sep><kanji>増やす<_kanji> <hiragana>ふやす<_hiragana><entrans> to increase; to add to; to augment<_entrans>
+<sep><kanji>増える<_kanji> <hiragana>ふえる<_hiragana><entrans> to increase; to multiply<_entrans>
+<pair>
+<sep><kanji>癒す<_kanji> <hiragana>いやす<_hiragana><entrans> to heal; to cure<_entrans>
+<sep><kanji>癒える<_kanji> <hiragana>いえる<_hiragana><entrans> to recover; to be healed<_entrans>
+<pair>
+<sep><kanji>費やす<_kanji> <hiragana>ついやす<_hiragana><entrans> to spend; to devote; to waste<_entrans>
+<sep><kanji>費える<_kanji> <hiragana>ついえる<_hiragana><entrans> to collapse<_entrans>
+<pair>
+<sep><kanji>肥やす<_kanji> <hiragana>こやす<_hiragana><entrans> to fertilize; to fertilise; to manure; to enrich<_entrans>
+<sep><kanji>肥える<_kanji> <hiragana>こえる<_hiragana><entrans> to grow fat; to grow fertile; to have good taste<_entrans>
+<pair>
+<sep><kanji>燃やす<_kanji> <hiragana>もやす<_hiragana><entrans> to burn<_entrans>
+<sep><kanji>燃える<_kanji> <hiragana>もえる<_hiragana><entrans> to burn<_entrans>
+<pair>
+<sep><kanji>起こす<_kanji> <hiragana>おこす<_hiragana><entrans> to raise; to cause; to wake someone<_entrans>
+<sep><kanji>起きる<_kanji> <hiragana>おきる<_hiragana><entrans> to get up; to rise; to wake up; to occur; to happen; to take place<entrans>起こる<_kanji> <hiragana>おこる<_hiragana><entrans> to occur; to happen<_entrans>
+<pair>
+<sep><kanji>落とす<_kanji> <hiragana>おとす<_hiragana><entrans> to drop; to lose; to let fall<_entrans>
+<sep><kanji>落ちる<_kanji> <hiragana>おちる<_hiragana><entrans> to fall down; to drop; to fail (e.g. exam); to crash; to degenerate; to degrade<_entrans>
+<pair>
+<sep><kanji>下ろす<_kanji> <hiragana>おろす<_hiragana><entrans> to take down; to launch; to drop; to lower; to let (a person) off; to unload; to discharge<_entrans>
+<sep><kanji>下りる<_kanji> <hiragana>おりる<_hiragana><entrans> to alight (e.g. from bus); to get off; to descend (e.g. a mountain)<_entrans>
+<pair>
+<sep><kanji>降ろす<_kanji> <hiragana>おろす<_hiragana><entrans> to take down; to launch; to drop; to lower; to let (a person) off; to unload; to discharge<_entrans>
+<sep><kanji>降りる<_kanji> <hiragana>おりる<_hiragana><entrans> to alight (e.g. from bus); to get off; to descend (e.g. a mountain)<_entrans>
+<pair>
+<sep><kanji>干す<_kanji> <hiragana>ほす<_hiragana><entrans> to air; to dry; to desiccate; to drain (off); to drink up<_entrans>
+<sep><kanji>干る<_kanji> <hiragana>ひる<_hiragana><entrans> to dry<_entrans>
+<pair>
+<sep><kanji>消す<_kanji> <hiragana>けす<_hiragana><entrans> to erase; to delete; to turn off power; to bump off <_entrans>
+<sep><kanji>消える<_kanji> <hiragana>きえる<_hiragana><entrans> to go out; to vanish; to disappear<_entrans>
+<pair>
+<sep><kanji>越す<_kanji> <hiragana>こす<_hiragana><entrans> to cross over (e.g. mountain); to go across; to go over (e.g. with audience); to pass (time, e.g. a winter); to surpass; to be better than; to move house<_entrans>
+<sep><kanji>越える<_kanji> <hiragana>こえる<_hiragana><entrans> to exceed; to cross over; to cross; to pass through; to pass over (out of)<_entrans>
+<pair>
+<sep><kanji>寝かす<_kanji> <hiragana>ねかす<_hiragana><entrans> to put to sleep; to lay (something) on its side<_entrans>
+<sep><kanji>寝る<_kanji> <hiragana>ねる<_hiragana><entrans> to go to bed; to lie down; to sleep<_entrans>
+<pair>
+<sep><kanji>汚す<_kanji> <hiragana>けがす<_hiragana><entrans> to disgrace; to dishonour; to dishonor; to pollute; to contaminate; to soil; to make dirty; to stain<_entrans>
+<sep><kanji>汚れる<_kanji> <hiragana>けがれる<_hiragana><entrans> to get dirty; to become dirty<_entrans>
+<pair>
+<sep><kanji>壊す<_kanji> <hiragana>こわす<_hiragana><entrans> to break; to break down<_entrans>
+<sep><kanji>壊れる<_kanji> <hiragana>こわれる<_hiragana><entrans> to be broken; to break<_entrans>
+<pair>
+<sep><kanji>隠す<_kanji> <hiragana>かくす<_hiragana><entrans> to hide; to conceal<_entrans>
+<sep><kanji>隠れる<_kanji> <hiragana>かくれる<_hiragana><entrans> to hide; to be hidden; to conceal oneself; to disappear<_entrans>
+<pair>
+<sep><kanji>崩す<_kanji> <hiragana>くずす<_hiragana><entrans> to destroy; to pull down; to make change (money)<_entrans>
+<sep><kanji>崩れる<_kanji> <hiragana>くずれる<_hiragana><entrans> to collapse; to crumble<_entrans>
+<pair>
+<sep><kanji>倒す<_kanji> <hiragana>たおす<_hiragana><entrans> to throw down; to beat; to bring down; to blow down; to fell; to knock down; to trip up; to defeat; to ruin; to overthrow; to kill; to leave unpaid; to cheat<_entrans>
+<sep><kanji>倒れる<_kanji> <hiragana>たおれる<_hiragana><entrans> to collapse; to break down; to go bankrupt; to fall; to drop; to die; to succumb to; to fall senseless; to be ruined; to have a bad debt<_entrans>
+<pair>
+<sep><kanji>離す<_kanji> <hiragana>はなす<_hiragana><entrans> to part; to divide; to separate<_entrans>
+<sep><kanji>離れる<_kanji> <hiragana>はなれる<_hiragana><entrans> to be separated from; to leave; to go away; to be a long way off<_entrans>
+<pair>
+<sep><kanji>現す<_kanji> <hiragana>あらわす<_hiragana><entrans> to show; to indicate; to display<_entrans>
+<sep><kanji>現れる<_kanji> <hiragana>あらわれる<_hiragana><entrans> to appear; to come in sight; to become visible; to come out; to embody; to materialize; to materialise; to express oneself<_entrans>
+<pair>
+<sep><kanji>零す<_kanji> <hiragana>こぼす<_hiragana><entrans> to spill<_entrans>
+<sep><kanji>零れる<_kanji> <hiragana>こぼれる<_hiragana><entrans> to overflow; to spill<_entrans>
+<pair>
+<sep><kanji>流す<_kanji> <hiragana>ながす<_hiragana><entrans> to drain; to float; to shed (blood, tears); to cruise (e.g. taxi)<_entrans>
+<sep><kanji>流れる<_kanji> <hiragana>ながれる<_hiragana><entrans> to stream; to flow (liquid, time, etc.); to run (ink); to be washed away<_entrans>
+<pair>
+<sep><kanji>解ぐす<_kanji> <hiragana>ほぐす<_hiragana><entrans> to unfasten<_entrans>
+<sep><kanji>解れる<_kanji> <hiragana>ほぐれる<_hiragana><entrans> to come untied; to come apart<_entrans>
+<pair>
+<sep><kanji>穢す<_kanji> <hiragana>けがす<_hiragana><entrans> to disgrace; to dishonour; to dishonor; to pollute; to contaminate; to soil; to make dirty; to stain<_entrans>
+<sep><kanji>穢れる<_kanji> <hiragana>けがれる<_hiragana><entrans> to get dirty; to become dirty<_entrans>
+<pair>
+<sep><kanji>逃す<_kanji> <hiragana>のがす<_hiragana><entrans> to let loose; to set free; to let escape<_entrans>
+<sep><kanji>逃れる<_kanji> <hiragana>のがれる<_hiragana><entrans> to escape<_entrans>
+<pair>
+<sep><kanji>乱す<_kanji> <hiragana>みだす<_hiragana><entrans> to throw out of order; to disarrange; to disturb<_entrans>
+<sep><kanji>乱れる<_kanji> <hiragana>みだれる<_hiragana><entrans> to get confused; to be disordered; to be disturbed<_entrans>
+<pair>
+<sep><kanji>潰す<_kanji> <hiragana>つぶす<_hiragana><entrans> to smash; to waste<_entrans>
+<sep><kanji>潰れる<_kanji> <hiragana>つぶれる<_hiragana><entrans> to be smashed; to go bankrupt<_entrans>
+<pair>
+<sep><kanji>乾かす<_kanji> <hiragana>かわかす<_hiragana><entrans> to dry (clothes, etc.); to desiccate<_entrans>
+<sep><kanji>乾く<_kanji> <hiragana>かわく<_hiragana><entrans> to get dry<_entrans>
+<pair>
+<sep><kanji>驚かす<_kanji> <hiragana>おどろかす<_hiragana><entrans> to surprise; to frighten; to create a stir<_entrans>
+<sep><kanji>驚く<_kanji> <hiragana>おどろく<_hiragana><entrans> to be surprised; to be astonished<_entrans>
+<pair>
+<sep><kanji>照らす<_kanji> <hiragana>てらす<_hiragana><entrans> to shine on; to illuminate<_entrans>
+<sep><kanji>照る<_kanji> <hiragana>てる<_hiragana><entrans> to shine<_entrans>
+<pair>
+<sep><kanji>凝らす<_kanji> <hiragana>こらす<_hiragana><entrans> to concentrate; to devote; to apply; to strain; to rack<_entrans>
+<sep><kanji>凝る<_kanji> <hiragana>こる<_hiragana><entrans> to grow stiff; to be absorbed in; to be devoted to; to be a fanatic; to elaborate<_entrans>
+<pair>
+<sep><kanji>減らす<_kanji> <hiragana>へらす<_hiragana><entrans> to abate; to decrease; to diminish; to shorten<_entrans>
+<sep><kanji>減る<_kanji> <hiragana>へる<_hiragana><entrans> to decrease (in size or number); to diminish; to abate<_entrans>
+<pair>
+<sep><kanji>交わす<_kanji> <hiragana>かわす<_hiragana><entrans> to exchange (messages); to dodge; to parry; to avoid; to turn aside<_entrans>
+<sep><kanji>交う<_kanji> <hiragana>かう<_hiragana><entrans> to take turns; to mingle together<_entrans>
+<pair>
+<sep><kanji>飛ばす<_kanji> <hiragana>とばす<_hiragana><entrans> to skip over; to omit<_entrans>
+<sep><kanji>飛ぶ<_kanji> <hiragana>とぶ<_hiragana><entrans> to jump; to fly; to leap; to spring; to bound; to hop<_entrans>
+<pair>
+<sep><kanji>動かす<_kanji> <hiragana>うごかす<_hiragana><entrans> to move; to shift; to set in motion; to operate; to inspire; to rouse; to influence; to mobilize; to mobilise; to deny; to change<_entrans>
+<sep><kanji>動く<_kanji> <hiragana>うごく<_hiragana><entrans> to move; to stir; to shift; to shake; to swing; to operate; to run; to go; to work; to be touched; to be influenced; to waver; to fluctuate; to vary; to change; to be transferred<_entrans>
+<pair>
+<sep><kanji>凝らす<_kanji> <hiragana>こごらす<_hiragana><entrans> to freeze; to congeal<_entrans>
+<sep><kanji>凝る<_kanji> <hiragana>こごる<_hiragana><entrans> to congeal; to freeze<_entrans>
+<pair>
+<sep><kanji>燻す<_kanji> <hiragana>いぶす<_hiragana><entrans> to smoke (something); to fumigate; to oxidize; to oxidise<_entrans>
+<sep><kanji>燻ぶる<_kanji> <hiragana>いぶる<_hiragana><entrans> to smoke; to smoulder; to smolder; to sputter<_entrans>
+<pair>
+<sep><kanji>転がす<_kanji> <hiragana>ころがす<_hiragana><entrans> to roll<_entrans>
+<sep><kanji>転がる<_kanji> <hiragana>ころがる<_hiragana><entrans> to roll; to tumble<_entrans>
+<pair>
+<sep><kanji>回す<_kanji> <hiragana>まわす<_hiragana><entrans> to turn; to revolve<_entrans>
+<sep><kanji>舞う<_kanji> <hiragana>まう<_hiragana><entrans> to dance; to flutter about; to revolve<entrans><b>回る<_kanji> <hiragana>まわる<_hiragana><entrans> to turn; to revolve; to visit several places<_entrans>
+<pair>
+<sep><kanji>沸かす<_kanji> <hiragana>わかす<_hiragana><entrans> to boil; to heat<_entrans>
+<sep><kanji>沸く<_kanji> <hiragana>わく<_hiragana><entrans> to boil; to grow hot; to get excited; to gush forth<_entrans>
+<pair>
+<sep><kanji>鳴らす<_kanji> <hiragana>ならす<_hiragana><entrans> to ring; to sound; to chime; to beat; to snort (nose)<_entrans>
+<sep><kanji>鳴る<_kanji> <hiragana>なる<_hiragana><entrans> to sound; to ring; to resound; to echo; to roar; to rumble<_entrans>
+<pair>
+<sep><kanji>脱がす<_kanji> <hiragana>ぬがす<_hiragana><entrans> to strip someone; to help someone remove (clothes)<_entrans>
+<sep><kanji>脱ぐ<_kanji> <hiragana>ぬぐ<_hiragana><entrans> to take off (clothes, shoes, etc.); to undress<_entrans>
+<pair>
+<sep><kanji>浮かす<_kanji> <hiragana>うかす<_hiragana><entrans> to raise; to rise<_entrans>
+<sep><kanji>浮く<_kanji> <hiragana>うく<_hiragana><entrans> to float; to become merry; to become loose<_entrans>
+<pair>
+<sep><kanji>及ぼす<_kanji> <hiragana>およぼす<_hiragana><entrans> to exert; to cause; to exercise<_entrans>
+<sep><kanji>及ぶ<_kanji> <hiragana>およぶ<_hiragana><entrans> to reach; to come up to; to amount to; to befall; to happen to; to extend; to match; to equal<_entrans>
+<pair>
+<sep><kanji>遊ばす<_kanji> <hiragana>あそばす<_hiragana><entrans> to let one play; to leave idle; to do (polite)<_entrans>
+<sep><kanji>遊ぶ<_kanji> <hiragana>あそぶ<_hiragana><entrans> to play; to make a visit (esp. for pleasure); to be idle; to do nothing<_entrans>
+<pair>
+<sep><kanji>散らす<_kanji> <hiragana>ちらす<_hiragana><entrans> to scatter; to disperse; to distribute<_entrans>
+<sep><kanji>散る<_kanji> <hiragana>ちる<_hiragana><entrans> to fall; to scatter (e.g. blossoms)<_entrans>
+<pair>
+<sep><kanji>曇らす<_kanji> <hiragana>くもらす<_hiragana><entrans> to encloud; to make dim or dull; to frown<_entrans>
+<sep><kanji>曇る<_kanji> <hiragana>くもる<_hiragana><entrans> to become cloudy; to become dim<_entrans>
+<pair>
+<sep><kanji>反らす<_kanji> <hiragana>そらす<_hiragana><entrans> to bend; to warp; to curve<_entrans>
+<sep><kanji>反る<_kanji> <hiragana>そる<_hiragana><entrans> to warp; to be warped; to curve; to be curved; to be arched; to bend (backward)<_entrans>
+<pair>
+<sep><kanji>尽かす<_kanji> <hiragana>つかす<_hiragana><entrans> to be disgusted with; to give up on<_entrans>
+<sep><kanji>尽くす<_kanji> <hiragana>つくす<_hiragana><entrans> to exhaust; to run out; to devote; to serve (a person); to befriend<_entrans>
+<pair>
+<sep><kanji>成す<_kanji> <hiragana>なす<_hiragana><entrans> to perform; to accomplish<_entrans>
+<sep><kanji>成る<_kanji> <hiragana>なる<_hiragana><entrans> to become<_entrans>
+<pair>
+<sep><kanji>通す<_kanji> <hiragana>とおす<_hiragana><entrans> to let pass; to overlook; to continue; to keep; to make way for; to persist in<_entrans>
+<sep><kanji>通る<_kanji> <hiragana>とおる<_hiragana><entrans> to pass (by); to go through; to walk along; to pass exams<_entrans>
+<pair>
+<sep><kanji>直す,治す<_kanji> <hiragana>なおす<_hiragana><entrans> to cure; to heal; to fix; to correct; to repair<_entrans>
+<sep><kanji>直る,治る<_kanji> <hiragana>なおる<_hiragana><entrans> to be cured; to get well; to be healed; to get mended; to be repaired; to be fixed<_entrans>
+<pair>
+<sep><kanji>返す<_kanji> <hiragana>かえす<_hiragana><entrans> to return something<_entrans>
+<sep><kanji>返る<_kanji> <hiragana>かえる<_hiragana><entrans> to return; to come back; to go back<_entrans>
+<pair>
+<sep><kanji>帰す,還す<_kanji> <hiragana>かえす<_hiragana><entrans> to send back<_entrans>
+<sep><kanji>帰る<_kanji> <hiragana>かえる<_hiragana><entrans> to go back; to go home; to come home; to return<_entrans>
+<pair>
+<sep><kanji>残す<_kanji> <hiragana>のこす<_hiragana><entrans> to leave (behind, over); to bequeath; to save; to reserve<_entrans>
+<sep><kanji>残る<_kanji> <hiragana>のこる<_hiragana><entrans> to remain; to be left<_entrans>
+<pair>
+<sep><kanji>下す,降す<_kanji> <hiragana>くだす<_hiragana><entrans> to lower; to let go down<_entrans>
+<sep><kanji>下る,降る<_kanji> <hiragana>くだる<_hiragana><entrans> to get down; to descend<_entrans>
+<pair>
+<sep><kanji>来す<_kanji> <hiragana>きたす<_hiragana><entrans> to cause; to induce; to bring about a result or state; to produce<_entrans>
+<sep><kanji>来る<_kanji> <hiragana>きたる<_hiragana><entrans> to come; to arrive; to be due to; to be next; to be forthcoming<_entrans>
+<pair>
+<sep><kanji>浸す<_kanji> <hiragana>ひたす<_hiragana><entrans> to soak; to dip; to drench<_entrans>
+<sep><kanji>浸る<_kanji> <hiragana>ひたる<_hiragana><entrans> to be soaked in; to be flooded<_entrans>
+<pair>
+<sep><kanji>被す<_kanji> <hiragana>かぶす<_hiragana><entrans> to cover (with something); also 被せる (かぶせる)<_entrans>
+<sep><kanji>被る<_kanji> <hiragana>かぶる<_hiragana><entrans> to wear; to put on (head); to pour or dash water (on oneself)<_entrans>
+<pair>
+<sep><kanji>散らかす<_kanji> <hiragana>ちらかす<_hiragana><entrans> to scatter around; to leave untidy<_entrans>
+<sep><kanji>散らかる<_kanji> <hiragana>ちらかる<_hiragana><entrans> to be in disorder; to lie scattered around<_entrans>
+<pair>
+<sep><kanji>乗す<_kanji> <hiragana>のす<_hiragana><entrans> to place on (something); to take on board; to give a ride to; 乗せる (のせる) to place on (something); to take on board; etc.<_entrans>
+<sep><kanji>乗る<_kanji> <hiragana>のる<_hiragana><entrans> to get on; to ride in; to board; to mount; to get up on; to spread (paints); to be taken in; to share in; to join; to be found in (a dictionary); to feel like doing; to be mentioned in; to be in harmony with<_entrans>
+<pair>
+<sep><kanji>寄す<_kanji> <hiragana>よす<_hiragana><entrans> (arch) to bring near; to put close; to let come near<_entrans>
+<sep><kanji>寄る<_kanji> <hiragana>よる<_hiragana><entrans> to visit; to drop in; to approach<_entrans>
+<pair>
+<sep><kanji>足す<_kanji> <hiragana>たす<_hiragana><entrans> to add (numbers); to do (e.g. one's business)<_entrans>
+<sep><kanji>足る<_kanji> <hiragana>たる<_hiragana><entrans> to be sufficient; to be enough<_entrans>
+<pair>
+<sep><kanji>濁す<_kanji> <hiragana>にごす<_hiragana><entrans> to make muddy; to prevaricate<_entrans>
+<sep><kanji>濁る<_kanji> <hiragana>にごる<_hiragana><entrans> to become muddy; to get impure<_entrans>
+<pair>
+<sep><kanji>戻す<_kanji> <hiragana>もどす<_hiragana><entrans> to restore; to put back; to return<_entrans>
+<sep><kanji>戻る<_kanji> <hiragana>もどる<_hiragana><entrans> to turn back; to return<_entrans>
+<pair>
+<sep><kanji>貸す<_kanji> <hiragana>かす<_hiragana><entrans> to lend<_entrans>
+<sep><kanji>借る<_kanji> <hiragana>かる<_hiragana><entrans> to borrow; to have a loan; to hire; to rent; to buy on credit<_entrans>
+<pair>
+<sep><kanji>渡す<_kanji> <hiragana>わたす<_hiragana><entrans> to pass over; to hand over<_entrans>
+<sep><kanji>渡る<_kanji> <hiragana>わたる<_hiragana><entrans> to cross over; to go across<_entrans>
+<pair>
+<sep><kanji>移す<_kanji> <hiragana>うつす<_hiragana><entrans> to remove; to transfer; to infect<_entrans>
+<sep><kanji>移る<_kanji> <hiragana>うつる<_hiragana><entrans> to move (house); to transfer (department); to be infected; to be contagious<_entrans>
+<pair>
+<sep><kanji>映す<_kanji> <hiragana>うつす<_hiragana><entrans> to project; to reflect; to cast (shadow)<_entrans>
+<sep><kanji>映る<_kanji> <hiragana>うつる<_hiragana><entrans> to be reflected; to harmonize with; to harmonise with; to come out (photo)<_entrans>
+<pair>
+<sep><kanji>写す<_kanji> <hiragana>うつす<_hiragana><entrans>to film; to transcribe; to duplicate; to reproduce; to trace; to describe; to picture; to photograph; to imitate<_entrans>
+<sep><kanji>写る<_kanji> <hiragana>うつる<_hiragana><entrans> to be photographed; to be projected<_entrans>
+<pair>
+<sep><kanji>余す<_kanji> <hiragana>あます<_hiragana><entrans> to save; to leave over; to spare<_entrans>
+<sep><kanji>余る<_kanji> <hiragana>あまる<_hiragana><entrans> to remain; to be left over; to be in excess; to be too many<_entrans>
+<pair>
+<sep><kanji>過ごす<_kanji> <hiragana>すごす<_hiragana><entrans> to pass; to spend; to go through; to tide over<_entrans>
+<sep><kanji>過ぎる<_kanji> <hiragana>すぎる<_hiragana><entrans> to pass; to go beyond; to elapse; to exceed<_entrans>
+<pair>
+<sep><kanji>無くす<_kanji> <hiragana>なくす<_hiragana><entrans> to lose something; to get rid of<_entrans>
+<sep><kanji>無くなる<_kanji> <hiragana>なくなる<_hiragana><entrans> to disappear; to get lost<_entrans>
+<pair>
+<sep><kanji>悩ます<_kanji> <hiragana>なやます<_hiragana><entrans> to afflict; to torment; to harass; to molest<_entrans>
+<sep><kanji>悩む<_kanji> <hiragana>なやむ<_hiragana><entrans> to be worried; to be troubled<_entrans>
+<pair>
+<sep><kanji>済ます<_kanji> <hiragana>すます<_hiragana><entrans> to finish; to get it over with; to conclude; to settle; to pay back; to get along (without something)<_entrans>
+<sep><kanji>済む<_kanji> <hiragana>すむ<_hiragana><entrans> to finish; to end; to be completed<_entrans>
+<pair>
+<sep><kanji>澄ます,清ます<_kanji> <hiragana>すます<_hiragana><entrans> to clear; to make clear; to be unruffled; to look unconcerned; to look demure; to look prim; to put on airs<_entrans>
+<sep><kanji>澄む,清む<_kanji> <hiragana>すむ<_hiragana><entrans> to clear (e.g. weather); to become transparent<_entrans>
+<pair>
+<sep><kanji>外す<_kanji> <hiragana>はずす<_hiragana><entrans> to unfasten; to remove; to bump off <_entrans>
+<sep><kanji>外れる<_kanji> <hiragana>はずれる<_hiragana><entrans> to be disconnected; to get out of place; to be off; to be out (e.g. of gear)<_entrans>
+<pair>
+<sep><kanji>生まれる<_kanji> <hiragana>うまれる<_hiragana><entrans> to be born<_entrans>
+<sep><kanji>生む<_kanji> <hiragana>うむ<_hiragana><entrans> to give birth; to deliver; to produce<_entrans>
+<pair>
+<sep><kanji>浴びる<_kanji> <hiragana>あびる<_hiragana><entrans> to bathe; to bask in the sun; to shower<_entrans>
+<sep><kanji>浴びせる<_kanji> <hiragana>あびせる<_hiragana><entrans> to pour on<_entrans>
+<pair>
+<sep><kanji>寄る<_kanji> <hiragana>よる<_hiragana><entrans> to visit; to drop in; to approach<_entrans>
+<sep><kanji>寄せる<_kanji> <hiragana>よせる<_hiragana><entrans> to come near; to let someone approach; to collect; to gather; to add; to put aside<_entrans>
